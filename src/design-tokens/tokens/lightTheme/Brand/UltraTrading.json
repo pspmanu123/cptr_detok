@@ -1,0 +1,47 @@
+{
+  "Primary": {
+    "$type": "color",
+    "$value": "#32383C",
+    "$description": "Ultra Trading primary color"
+  },
+  "Hover": {
+    "$type": "color",
+    "$value": "#181516",
+    "$description": "Ultra Trading primary hover"
+  },
+  "Dark": {
+    "$type": "color",
+    "$value": "#32383C",
+    "$description": "Ultra Trading primary dark"
+  },
+  "Header": {
+    "$type": "color",
+    "$value": "#32383C",
+    "$description": "Ultra Trading primary header"
+  },
+  "fontFamily": {
+    "$type": "fontFamilies",
+    "$value": "Montserrat",
+    "$description": "Ultra trading font family"
+  },
+  "active": {
+    "$type": "border",
+    "$value": {
+      "color": "{Primary}",
+      "width": "1.5"
+    },
+    "$description": "Ultra Trading custom button active"
+  },
+  "tertiary": {
+    "$type": "border",
+    "$value": {
+      "color": "{Primary}",
+      "width": "1"
+    },
+    "$description": "Ultra Trading tertiary button"
+  },
+  "headerContrast": {
+    "$type": "color",
+    "$value": "#FFF"
+  }
+}

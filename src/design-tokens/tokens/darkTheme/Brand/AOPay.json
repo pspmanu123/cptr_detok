@@ -1,0 +1,47 @@
+{
+  "Primary": {
+    "$type": "color",
+    "$value": "#D592A8",
+    "$description": "AO Pay primary color"
+  },
+  "Hover": {
+    "$type": "color",
+    "$value": "#956675",
+    "$description": "AO Pay primary hover"
+  },
+  "Dark": {
+    "$type": "color",
+    "$value": "#4E1327",
+    "$description": "AO Pay primary dark"
+  },
+  "Header": {
+    "$type": "color",
+    "$value": "linear-gradient(90deg, #701C38 0%, #2D1319 100%)",
+    "$description": "AO Pay primary header"
+  },
+  "fontFamily": {
+    "$type": "fontFamilies",
+    "$value": "Inter",
+    "$description": "AO Pay font family"
+  },
+  "active": {
+    "$type": "border",
+    "$value": {
+      "color": "{Primary}",
+      "width": "1.5"
+    },
+    "$description": "AO Pay custom button active"
+  },
+  "tertiary": {
+    "$type": "border",
+    "$value": {
+      "color": "{Primary}",
+      "width": "1"
+    },
+    "$description": "AO Pay tertiary button"
+  },
+  "headerContrast": {
+    "$type": "color",
+    "$value": "#FFF"
+  }
+}

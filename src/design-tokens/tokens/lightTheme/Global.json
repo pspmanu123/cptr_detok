@@ -1,0 +1,508 @@
+{
+  "fontSize12px": {
+    "$type": "fontSizes",
+    "$value": "12px"
+  },
+  "fontSize13px": {
+    "$type": "fontSizes",
+    "$value": "13px"
+  },
+  "fontSize14px": {
+    "$type": "fontSizes",
+    "$value": "14px"
+  },
+  "fontSize16px": {
+    "$type": "fontSizes",
+    "$value": "16px"
+  },
+  "fontSize20px": {
+    "$type": "fontSizes",
+    "$value": "20px"
+  },
+  "fontSize24px": {
+    "$type": "fontSizes",
+    "$value": "24px"
+  },
+  "fontSize32px": {
+    "$type": "fontSizes",
+    "$value": "32px"
+  },
+  "fontSize35px": {
+    "$type": "fontSizes",
+    "$value": "35px"
+  },
+  "Error": {
+    "default": {
+      "main": {
+        "$type": "color",
+        "$value": "#CF1414",
+        "$description": "Error default main"
+      },
+      "background": {
+        "$type": "color",
+        "$value": "#FDEDED",
+        "$description": "Error default background"
+      },
+      "label": {
+        "$type": "color",
+        "$value": "#5F2120",
+        "$description": "Error default label"
+      }
+    },
+    "filled": {
+      "main": {
+        "$type": "color",
+        "$value": "#FFFFFF",
+        "$description": "Error filled main"
+      },
+      "background": {
+        "$type": "color",
+        "$value": "#CF1414",
+        "$description": "Error filled background"
+      },
+      "label": {
+        "$type": "color",
+        "$value": "#FFFFFF",
+        "$description": "Error filled label"
+      }
+    }
+  },
+  "Success": {
+    "default": {
+      "main": {
+        "$type": "color",
+        "$value": "#0C7810",
+        "$description": "Success default main"
+      },
+      "background": {
+        "$type": "color",
+        "$value": "#E2F9E2",
+        "$description": "Success default background"
+      },
+      "label": {
+        "$type": "color",
+        "$value": "#1E4620",
+        "$description": "Success default label"
+      }
+    },
+    "filled": {
+      "main": {
+        "$type": "color",
+        "$value": "#FFFFFF",
+        "$description": "Success filled main"
+      },
+      "background": {
+        "$type": "color",
+        "$value": "#0C7810",
+        "$description": "Success filled background"
+      },
+      "label": {
+        "$type": "color",
+        "$value": "#FFFFFF",
+        "$description": "Success filled label"
+      }
+    }
+  },
+  "Info": {
+    "default": {
+      "main": {
+        "$type": "color",
+        "$value": "#006DD1",
+        "$description": "Info default main"
+      },
+      "background": {
+        "$type": "color",
+        "$value": "#E5F6FD",
+        "$description": "Info default background"
+      },
+      "label": {
+        "$type": "color",
+        "$value": "#014361",
+        "$description": "Info default label"
+      }
+    },
+    "filled": {
+      "main": {
+        "$type": "color",
+        "$value": "#FFFFFF",
+        "$description": "Info filled main"
+      },
+      "background": {
+        "$type": "color",
+        "$value": "#006DD1",
+        "$description": "Info filled background"
+      },
+      "label": {
+        "$type": "color",
+        "$value": "#FFFFFF",
+        "$description": "Info filled label"
+      }
+    }
+  },
+  "Warning": {
+    "default": {
+      "main": {
+        "$type": "color",
+        "$value": "#ED6C02",
+        "$description": "Warning default main"
+      },
+      "background": {
+        "$type": "color",
+        "$value": "#FFEFD8",
+        "$description": "Warning default background"
+      },
+      "label": {
+        "$type": "color",
+        "$value": "#663C00",
+        "$description": "Warning default label"
+      }
+    },
+    "filled": {
+      "main": {
+        "$type": "color",
+        "$value": "#FFFFFF",
+        "$description": "Warning filled main"
+      },
+      "background": {
+        "$type": "color",
+        "$value": "#ED6C02",
+        "$description": "Warning filled background"
+      },
+      "label": {
+        "$type": "color",
+        "$value": "#FFFFFF",
+        "$description": "Warning filled label"
+      }
+    }
+  },
+  "Text": {
+    "heading": {
+      "$type": "color",
+      "$value": "#3D3D3D",
+      "$description": "Heading text color"
+    },
+    "body": {
+      "$type": "color",
+      "$value": "#3D3D3D",
+      "$description": "Body text color"
+    },
+    "subtext": {
+      "$type": "color",
+      "$value": "#737373",
+      "$description": "Sub text color"
+    },
+    "placeholder": {
+      "$type": "color",
+      "$value": "#737373",
+      "$description": "Placeholder text color"
+    }
+  },
+  "Button": {
+    "primary": {
+      "contrast": {
+        "$type": "color",
+        "$value": "#FFFFFF",
+        "$description": "Button Primary Contrast Item"
+      }
+    },
+    "secondary": {
+      "background": {
+        "$type": "color",
+        "$value": "#ECEFF1",
+        "$description": "Button Secondary Color"
+      },
+      "hover": {
+        "$type": "color",
+        "$value": "#BDBDBD",
+        "$description": "Button Secondary Hover"
+      },
+      "contrast": {
+        "$type": "color",
+        "$value": "#3D3D3D",
+        "$description": "Button Secondary Contrast Item"
+      }
+    },
+    "text": {
+      "hover": {
+        "$type": "color",
+        "$value": "#F2F2F2",
+        "$description": "Button Text Hover"
+      }
+    },
+    "general": {
+      "hover": {
+        "$type": "color",
+        "$value": "#737373",
+        "$description": "General Button Hover"
+      },
+      "contrast": {
+        "$type": "color",
+        "$value": "#3D3D3D",
+        "$description": "Button General Contrast Item"
+      }
+    },
+    "switch": {
+      "handle": {
+        "$type": "color",
+        "$value": "#FFFFFF",
+        "$description": "Switch handle color"
+      },
+      "active": {
+        "$type": "color",
+        "$value": "{Success.default.main}",
+        "$description": "Switch background active"
+      },
+      "background": {
+        "$type": "color",
+        "$value": "#BDBDBD30",
+        "$description": "Switch background inactive"
+      }
+    },
+    "menu": {
+      "contrastDefault": {
+        "$type": "color",
+        "$value": "#3D3D3D",
+        "$description": "Menu Contrast Default"
+      },
+      "contrastActive": {
+        "$type": "color",
+        "$value": "#FFFFFF",
+        "$description": "Menu Contrast Active"
+      },
+      "defaultHover": {
+        "$type": "color",
+        "$value": "#E4E4E4",
+        "$description": "Menu Contrast default Hover"
+      }
+    },
+    "links": {
+      "light": {
+        "$type": "color",
+        "$value": "#006DD1",
+        "$description": "Links on Light BG"
+      },
+      "dark": {
+        "$type": "color",
+        "$value": "#29B6F6",
+        "$description": "Links on dark BG"
+      },
+      "breadcrumbs": {
+        "$type": "color",
+        "$value": "#546E7A",
+        "$description": "Links on breadcrumbs"
+      }
+    },
+    "icon": {
+      "backoffice": {
+        "contrast": {
+          "$type": "color",
+          "$value": "#546E7A",
+          "$description": "Icon Button on backoffice"
+        }
+      },
+      "default": {
+        "contrast": {
+          "$type": "color",
+          "$value": "#3D3D3D",
+          "$description": "Icon Button by default"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "#F2F2F2",
+          "$description": "Icon Button by default hover"
+        }
+      },
+      "filled": {
+        "contrast": {
+          "$type": "color",
+          "$value": "#FFFFFF",
+          "$description": "Icon Button contrast on filled variant"
+        }
+      }
+    }
+  },
+  "Chip": {
+    "background": {
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0",
+            "space": "lch"
+          }
+        }
+      },
+      "$type": "color",
+      "$value": "rgba(0,0,0,0.07)",
+      "$description": "Chip background"
+    }
+  },
+  "Tooltip": {
+    "background": {
+      "$type": "color",
+      "$value": "#3D3D3D",
+      "$description": "Tooltip background color"
+    },
+    "contrast": {
+      "$type": "color",
+      "$value": "#FFFFFF",
+      "$description": "Tooltip contrast item color"
+    }
+  },
+  "Icon": {
+    "fill": {
+      "default": {
+        "$type": "color",
+        "$value": "#3D3D3D",
+        "$description": "Icon fill color by default"
+      }
+    },
+    "background": {
+      "default": {
+        "$type": "color",
+        "$value": "#FFFFFF",
+        "$description": "Icon background color when needed"
+      }
+    }
+  },
+  "Background": {
+    "app": {
+      "body": {
+        "$type": "color",
+        "$value": "#F9F9F9",
+        "$description": "App body background color"
+      },
+      "page": {
+        "$type": "color",
+        "$value": "#F2F2F2",
+        "$description": "App page background color"
+      },
+      "section": {
+        "$type": "color",
+        "$value": "#FFFFFF",
+        "$description": "App section background color"
+      },
+      "cards": {
+        "$type": "color",
+        "$value": "#FFFFFF",
+        "$description": "App cards background color"
+      }
+    },
+    "table": {
+      "background": {
+        "$type": "color",
+        "$value": "#FFFFFF",
+        "$description": "Table background color"
+      },
+      "alternate": {
+        "$type": "color",
+        "$value": "#FAFAFA",
+        "$description": "Alternate row color on tables"
+      },
+      "hover": {
+        "$type": "color",
+        "$value": "#00000008",
+        "$description": "Table row hover background color"
+      }
+    }
+  },
+  "big": {
+    "$type": "lineHeights",
+    "$value": "120%",
+    "$description": "When font-size is greater than 20px"
+  },
+  "small": {
+    "$type": "lineHeights",
+    "$value": "140%",
+    "$description": "When font-size is lesser than 21px"
+  },
+  "Regular": {
+    "$type": "fontWeights",
+    "$value": "400"
+  },
+  "Medium": {
+    "$type": "fontWeights",
+    "$value": "500"
+  },
+  "Bold": {
+    "$type": "fontWeights",
+    "$value": "700"
+  },
+  "Strikethrough": {
+    "$type": "textDecoration",
+    "$value": "line-through"
+  },
+  "Underline": {
+    "$type": "textDecoration",
+    "$value": "underline"
+  },
+  "defaultBorder": {
+    "$type": "border",
+    "$value": {
+      "color": "{border.default}",
+      "width": "1"
+    }
+  },
+  "dividerDefault": {
+    "$type": "border",
+    "$value": {
+      "color": "{border.divider}",
+      "width": "0.75"
+    }
+  },
+  "textfieldDefault": {
+    "$type": "border",
+    "$value": {
+      "color": "{border.textfield.default}",
+      "width": "1"
+    },
+    "$description": "Textfield border default"
+  },
+  "textfieldHover": {
+    "$type": "border",
+    "$value": {
+      "color": "{border.textfield.hover}",
+      "width": "1"
+    },
+    "$description": "Textfield border when hovered"
+  },
+  "customButton": {
+    "$type": "border",
+    "$value": {
+      "color": "{border.customButton.default}",
+      "width": "1"
+    },
+    "$description": "Custom Button default border"
+  },
+  "border": {
+    "default": {
+      "$type": "color",
+      "$value": "#E4E4E4",
+      "$description": "Default border color"
+    },
+    "divider": {
+      "$type": "color",
+      "$value": "#E4E4E4",
+      "$description": "Default divider color"
+    },
+    "textfield": {
+      "default": {
+        "$type": "color",
+        "$value": "#E4E4E4",
+        "$description": "Textfield border default"
+      },
+      "hover": {
+        "$type": "color",
+        "$value": "#3D3D3D",
+        "$description": "textfield border when hovered"
+      }
+    },
+    "customButton": {
+      "default": {
+        "$type": "color",
+        "$value": "#E4E4E4",
+        "$description": "Custom button border default"
+      }
+    }
+  }
+}

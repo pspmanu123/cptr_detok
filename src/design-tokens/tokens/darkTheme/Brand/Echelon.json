@@ -1,0 +1,47 @@
+{
+  "Primary": {
+    "$type": "color",
+    "$value": "#003C6B",
+    "$description": "Echelon primary color"
+  },
+  "Hover": {
+    "$type": "color",
+    "$value": "#052743",
+    "$description": "Echelon primary hover"
+  },
+  "Dark": {
+    "$type": "color",
+    "$value": "#003C6B",
+    "$description": "Echelon primary dark"
+  },
+  "Header": {
+    "$type": "color",
+    "$value": "#003C6B",
+    "$description": "Echelon primary header"
+  },
+  "fontFamily": {
+    "$type": "fontFamilies",
+    "$value": "Rubik",
+    "$description": "Echelon font family"
+  },
+  "active": {
+    "$type": "border",
+    "$value": {
+      "color": "{Primary}",
+      "width": "1.5"
+    },
+    "$description": "Echelon custom button active"
+  },
+  "tertiary": {
+    "$type": "border",
+    "$value": {
+      "color": "{Primary}",
+      "width": "1"
+    },
+    "$description": "Echelon tertiary button"
+  },
+  "headerContrast": {
+    "$type": "color",
+    "$value": "#FFF"
+  }
+}

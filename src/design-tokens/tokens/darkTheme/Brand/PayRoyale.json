@@ -1,0 +1,47 @@
+{
+  "Primary": {
+    "$type": "color",
+    "$value": "#80A8FE",
+    "$description": "Pay Royale primary color"
+  },
+  "Hover": {
+    "$type": "color",
+    "$value": "#5975B1",
+    "$description": "Pay Royale primary hover"
+  },
+  "Dark": {
+    "$type": "color",
+    "$value": "#0A2662",
+    "$description": "Pay Royale primary dark"
+  },
+  "Header": {
+    "$type": "color",
+    "$value": "#0A2662",
+    "$description": "Pay Royale primary header"
+  },
+  "fontFamily": {
+    "$type": "fontFamilies",
+    "$value": "Public Sans",
+    "$description": "Pay Royale font family"
+  },
+  "active": {
+    "$type": "border",
+    "$value": {
+      "color": "{Primary}",
+      "width": "1.5"
+    },
+    "$description": "Pay Royale custom button active"
+  },
+  "tertiary": {
+    "$type": "border",
+    "$value": {
+      "color": "{Primary}",
+      "width": "1"
+    },
+    "$description": "Pay Royale tertiary button"
+  },
+  "headerContrast": {
+    "$type": "color",
+    "$value": "#FFF"
+  }
+}

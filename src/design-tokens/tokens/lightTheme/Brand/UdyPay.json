@@ -1,0 +1,47 @@
+{
+  "Primary": {
+    "$type": "color",
+    "$value": "#542988",
+    "$description": "Udy Pay primary color"
+  },
+  "Hover": {
+    "$type": "color",
+    "$value": "#3A1C5F",
+    "$description": "Udy Pay primary hover"
+  },
+  "Dark": {
+    "$type": "color",
+    "$value": "#542988",
+    "$description": "Udy Pay primary dark"
+  },
+  "Header": {
+    "$type": "color",
+    "$value": "linear-gradient(90deg, #542988 35%, #2D175B 100%)",
+    "$description": "Udy Pay primary header"
+  },
+  "fontFamily": {
+    "$type": "fontFamilies",
+    "$value": "Inter",
+    "$description": "Udy Pay font family"
+  },
+  "active": {
+    "$type": "border",
+    "$value": {
+      "color": "{Primary}",
+      "width": "1.5"
+    },
+    "$description": "Udy Pay custom button active"
+  },
+  "tertiary": {
+    "$type": "border",
+    "$value": {
+      "color": "{Primary}",
+      "width": "1"
+    },
+    "$description": "Udy Pay tertiary button"
+  },
+  "headerContrast": {
+    "$type": "color",
+    "$value": "#FFF"
+  }
+}

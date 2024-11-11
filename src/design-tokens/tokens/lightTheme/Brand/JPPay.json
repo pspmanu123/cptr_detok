@@ -1,0 +1,47 @@
+{
+  "Primary": {
+    "$type": "color",
+    "$value": "#2C135D",
+    "$description": "JP Pay primary color"
+  },
+  "Hover": {
+    "$type": "color",
+    "$value": "#1E0D41",
+    "$description": "JP Pay primary hover"
+  },
+  "Dark": {
+    "$type": "color",
+    "$value": "#2C135D",
+    "$description": "JP Pay primary dark"
+  },
+  "Header": {
+    "$type": "color",
+    "$value": "#2C135D",
+    "$description": "JP Pay primary header"
+  },
+  "fontFamily": {
+    "$type": "fontFamilies",
+    "$value": "Estedad-VF",
+    "$description": "JPPay font family"
+  },
+  "active": {
+    "$type": "border",
+    "$value": {
+      "color": "{Primary}",
+      "width": "1.5"
+    },
+    "$description": "JP Pay custom button active"
+  },
+  "tertiary": {
+    "$type": "border",
+    "$value": {
+      "color": "{Primary}",
+      "width": "1"
+    },
+    "$description": "JP Pay tertiary button"
+  },
+  "headerContrast": {
+    "$type": "color",
+    "$value": "#FFF"
+  }
+}

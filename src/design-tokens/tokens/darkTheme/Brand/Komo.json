@@ -1,0 +1,47 @@
+{
+  "Primary": {
+    "$type": "color",
+    "$value": "#A19589",
+    "$description": "Komo primary color"
+  },
+  "Hover": {
+    "$type": "color",
+    "$value": "#7F7062",
+    "$description": "Komo primary hover"
+  },
+  "Dark": {
+    "$type": "color",
+    "$value": "#2E2A2A",
+    "$description": "Komo primary dark"
+  },
+  "Header": {
+    "$type": "color",
+    "$value": "#2E2A2A",
+    "$description": "Komo primary header"
+  },
+  "fontFamily": {
+    "$type": "fontFamilies",
+    "$value": "Inter",
+    "$description": "Komo font family"
+  },
+  "active": {
+    "$type": "border",
+    "$value": {
+      "color": "{Primary}",
+      "width": "1.5"
+    },
+    "$description": "Komo custom button active"
+  },
+  "tertiary": {
+    "$type": "border",
+    "$value": {
+      "color": "{Primary}",
+      "width": "1"
+    },
+    "$description": "Komo tertiary button"
+  },
+  "headerContrast": {
+    "$type": "color",
+    "$value": "#FFF"
+  }
+}
