@@ -1,0 +1,63 @@
+{
+  "Primary": {
+    "$type": "color",
+    "$value": "#0A2662",
+    "$description": "Pay Royale primary color"
+  },
+  "Hover": {
+    "$type": "color",
+    "$value": "#071A44",
+    "$description": "Pay Royale primary hover"
+  },
+  "Dark": {
+    "$type": "color",
+    "$value": "#0A2662",
+    "$description": "Pay Royale primary dark"
+  },
+  "Header": {
+    "$type": "color",
+    "$value": "#0A2662",
+    "$description": "Pay Royale primary header"
+  },
+  "fontFamily": {
+    "$type": "fontFamilies",
+    "$value": "Public Sans",
+    "$description": "Pay Royale font family"
+  },
+  "active": {
+    "$type": "border",
+    "$value": {
+      "color": "{Primary}",
+      "width": "1.5"
+    },
+    "$description": "Pay Royale custom button active"
+  },
+  "tertiary": {
+    "$type": "border",
+    "$value": {
+      "color": "{Primary}",
+      "width": "1"
+    },
+    "$description": "Pay Royale tertiary button"
+  },
+  "tertiaryHover": {
+    "$type": "border",
+    "$value": {
+      "color": "{Hover}",
+      "width": "1"
+    },
+    "$description": "Pay Royale tertiary button hover"
+  },
+  "headerContrast": {
+    "$type": "color",
+    "$value": "#FFF"
+  },
+  "textfieldMultiselect": {
+    "$type": "border",
+    "$value": {
+      "width": "1",
+      "color": "{Primary}"
+    },
+    "$description": "Multi-select textfield default border when there's input"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "Primary": {
+    "$type": "color",
+    "$value": "#9D3ADF",
+    "$description": "Crypto primary color"
+  },
+  "Hover": {
+    "$type": "color",
+    "$value": "#6D289C",
+    "$description": "Crypto primary hover"
+  },
+  "Dark": {
+    "$type": "color",
+    "$value": "#6D289C",
+    "$description": "Crypto primary dark"
+  },
+  "Header": {
+    "$type": "color",
+    "$value": "linear-gradient(270deg, #9D3ADF 0%, #106AB6 100%)",
+    "$description": "Crypto primary header"
+  },
+  "fontFamily": {
+    "$type": "fontFamilies",
+    "$value": "Nunito",
+    "$description": "Crypto font family"
+  },
+  "active": {
+    "$type": "border",
+    "$value": {
+      "color": "{Primary}",
+      "width": "1.5"
+    },
+    "$description": "Crypto custom button active"
+  },
+  "tertiary": {
+    "$type": "border",
+    "$value": {
+      "color": "{Primary}",
+      "width": "1"
+    },
+    "$description": "Crypto tertiary button"
+  },
+  "tertiaryHover": {
+    "$type": "border",
+    "$value": {
+      "color": "{Hover}",
+      "width": "1"
+    },
+    "$description": "Crypto tertiary button hover"
+  },
+  "headerContrast": {
+    "$type": "color",
+    "$value": "#FFF"
+  },
+  "textfieldMultiselect": {
+    "$type": "border",
+    "$value": {
+      "width": "1",
+      "color": "{Primary}"
+    },
+    "$description": "Multi-select textfield default border when there's input"
+  }
+}

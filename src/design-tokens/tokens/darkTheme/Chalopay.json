@@ -1,0 +1,63 @@
+{
+  "Primary": {
+    "$type": "color",
+    "$value": "#00B451",
+    "$description": "Chalopay primary color"
+  },
+  "Hover": {
+    "$type": "color",
+    "$value": "#007D38",
+    "$description": "Chalopay primary hover"
+  },
+  "Dark": {
+    "$type": "color",
+    "$value": "#005F31",
+    "$description": "Chalopay dark"
+  },
+  "Header": {
+    "$type": "color",
+    "$value": "linear-gradient(269.64deg, #008847 0.31%, #008847 16.32%, #089E56 36.75%, #00B451 62.7%, #93D500 99.69%)",
+    "$description": "Chalopay header"
+  },
+  "fontFamily": {
+    "$type": "fontFamilies",
+    "$value": "Nunito",
+    "$description": "Chalopay font family"
+  },
+  "active": {
+    "$type": "border",
+    "$value": {
+      "color": "{Primary}",
+      "width": "1.5"
+    },
+    "$description": "Chalopay custom button active"
+  },
+  "tertiary": {
+    "$type": "border",
+    "$value": {
+      "color": "{Primary}",
+      "width": "1"
+    },
+    "$description": "Chalopay tertiary button"
+  },
+  "tertiaryHover": {
+    "$type": "border",
+    "$value": {
+      "color": "{Hover}",
+      "width": "1"
+    },
+    "$description": "Chalopay tertiary button hover"
+  },
+  "headerContrast": {
+    "$type": "color",
+    "$value": "#FFF"
+  },
+  "textfieldMultiselect": {
+    "$type": "border",
+    "$value": {
+      "width": "1",
+      "color": "{Primary}"
+    },
+    "$description": "Multi-select textfield default border when there's input"
+  }
+}

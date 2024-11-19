@@ -253,8 +253,17 @@
         "$description": "Switch background active"
       },
       "background": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.3",
+              "space": "lch"
+            }
+          }
+        },
         "$type": "color",
-        "$value": "#BDBDBD30",
+        "$value": "#BDBDBD",
         "$description": "Switch background inactive"
       }
     },
@@ -318,6 +327,13 @@
           "$value": "#FFFFFF",
           "$description": "Icon Button contrast on filled variant"
         }
+      }
+    },
+    "control": {
+      "inactive": {
+        "$type": "color",
+        "$value": "#737373",
+        "$description": "Control buttons inactive (Checkboxes, Radios)"
       }
     }
   },
@@ -439,21 +455,21 @@
   "defaultBorder": {
     "$type": "border",
     "$value": {
-      "color": "{border.default}",
+      "color": "{Border.default}",
       "width": "1"
     }
   },
   "dividerDefault": {
     "$type": "border",
     "$value": {
-      "color": "{border.divider}",
+      "color": "{Border.divider}",
       "width": "0.75"
     }
   },
   "textfieldDefault": {
     "$type": "border",
     "$value": {
-      "color": "{border.textfield.default}",
+      "color": "{Border.textfield.default}",
       "width": "1"
     },
     "$description": "Textfield border default"
@@ -461,7 +477,7 @@
   "textfieldHover": {
     "$type": "border",
     "$value": {
-      "color": "{border.textfield.hover}",
+      "color": "{Border.textfield.hover}",
       "width": "1"
     },
     "$description": "Textfield border when hovered"
@@ -469,12 +485,12 @@
   "customButton": {
     "$type": "border",
     "$value": {
-      "color": "{border.customButton.default}",
+      "color": "{Border.customButton.default}",
       "width": "1"
     },
     "$description": "Custom Button default border"
   },
-  "border": {
+  "Border": {
     "default": {
       "$type": "color",
       "$value": "#E4E4E4",
@@ -504,5 +520,33 @@
         "$description": "Custom button border default"
       }
     }
+  },
+  "Snackbar": {
+    "background": {
+      "$type": "color",
+      "$value": "#3D3D3D",
+      "$description": "Snackbar default background"
+    },
+    "contrast": {
+      "$type": "color",
+      "$value": "#FFFFFF",
+      "$description": "Snackbar contrast items (Buttons, texts)"
+    }
+  },
+  "textfieldError": {
+    "$type": "border",
+    "$value": {
+      "color": "{Error.default.main}",
+      "width": "1"
+    },
+    "$description": "Textfield border when error"
+  },
+  "borderChip": {
+    "$type": "border",
+    "$value": {
+      "color": "#00000012",
+      "width": "1"
+    },
+    "$description": "Chip border"
   }
 }

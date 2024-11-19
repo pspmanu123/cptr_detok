@@ -5,7 +5,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/Brand/Carpentum": "enabled"
+      "lightTheme/Carpentum": "enabled"
     },
     "group": "lightTheme"
   },
@@ -15,7 +15,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/Brand/Echelon": "enabled"
+      "lightTheme/Echelon": "enabled"
     },
     "group": "lightTheme"
   },
@@ -25,7 +25,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/Brand/AseanPay": "enabled"
+      "lightTheme/AseanPay": "enabled"
     },
     "group": "lightTheme"
   },
@@ -35,7 +35,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/Brand/Chalopay": "enabled"
+      "lightTheme/Chalopay": "enabled"
     },
     "group": "lightTheme"
   },
@@ -45,7 +45,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/Brand/Wanwei": "enabled"
+      "lightTheme/Wanwei": "enabled"
     },
     "group": "lightTheme"
   },
@@ -55,7 +55,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/Brand/HakuPay": "enabled"
+      "lightTheme/HakuPay": "enabled"
     },
     "group": "lightTheme"
   },
@@ -65,7 +65,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/Brand/Crypto": "enabled"
+      "lightTheme/Crypto": "enabled"
     },
     "group": "lightTheme"
   },
@@ -75,7 +75,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/Brand/SpinPay": "enabled"
+      "lightTheme/SpinPay": "enabled"
     },
     "group": "lightTheme"
   },
@@ -84,8 +84,8 @@
     "name": "flashpay",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "lightTheme/Brand/FlashPay": "enabled",
-      "lightTheme/Global": "enabled"
+      "lightTheme/Global": "enabled",
+      "lightTheme/FlashPay": "enabled"
     },
     "group": "lightTheme"
   },
@@ -94,8 +94,8 @@
     "name": "aopay",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "lightTheme/Brand/AOPay": "enabled",
-      "lightTheme/Global": "enabled"
+      "lightTheme/Global": "enabled",
+      "lightTheme/AOPay": "enabled"
     },
     "group": "lightTheme"
   },
@@ -105,7 +105,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/Brand/ZapEFT": "enabled"
+      "lightTheme/ZapEFT": "enabled"
     },
     "group": "lightTheme"
   },
@@ -115,7 +115,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/Brand/LFI": "enabled"
+      "lightTheme/LFI": "enabled"
     },
     "group": "lightTheme"
   },
@@ -125,7 +125,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/Brand/UdyPay": "enabled"
+      "lightTheme/UdyPay": "enabled"
     },
     "group": "lightTheme"
   },
@@ -135,7 +135,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/Brand/UltraTrading": "enabled"
+      "lightTheme/UltraTrading": "enabled"
     },
     "group": "lightTheme"
   },
@@ -145,7 +145,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/Brand/Rampr": "enabled"
+      "lightTheme/Rampr": "enabled"
     },
     "group": "lightTheme"
   },
@@ -155,7 +155,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/Brand/Komo": "enabled"
+      "lightTheme/Komo": "enabled"
     },
     "group": "lightTheme"
   },
@@ -165,7 +165,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/Brand/Payversa": "enabled"
+      "lightTheme/Payversa": "enabled"
     },
     "group": "lightTheme"
   },
@@ -175,7 +175,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/Brand/PayRoyale": "enabled"
+      "lightTheme/PayRoyale": "enabled"
     },
     "group": "lightTheme"
   },
@@ -185,7 +185,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/Brand/JPPay": "enabled"
+      "lightTheme/JPPay": "enabled"
     },
     "group": "lightTheme"
   },
@@ -195,7 +195,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/Brand/Carpentum": "enabled"
+      "darkTheme/Carpentum": "enabled"
     },
     "group": "darkTheme"
   },
@@ -205,7 +205,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/Brand/Echelon": "enabled"
+      "darkTheme/Echelon": "enabled"
     },
     "group": "darkTheme"
   },
@@ -215,7 +215,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/Brand/AseanPay": "enabled"
+      "darkTheme/AseanPay": "enabled"
     },
     "group": "darkTheme"
   },
@@ -225,7 +225,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/Brand/Chalopay": "enabled"
+      "darkTheme/Chalopay": "enabled"
     },
     "group": "darkTheme"
   },
@@ -235,7 +235,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/Brand/Wanwei": "enabled"
+      "darkTheme/Wanwei": "enabled"
     },
     "group": "darkTheme"
   },
@@ -245,7 +245,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/Brand/HakuPay": "enabled"
+      "darkTheme/HakuPay": "enabled"
     },
     "group": "darkTheme"
   },
@@ -255,7 +255,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/Brand/Crypto": "enabled"
+      "darkTheme/Crypto": "enabled"
     },
     "group": "darkTheme"
   },
@@ -265,7 +265,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/Brand/SpinPay": "enabled"
+      "darkTheme/SpinPay": "enabled"
     },
     "group": "darkTheme"
   },
@@ -275,7 +275,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/Brand/FlashPay": "enabled"
+      "darkTheme/FlashPay": "enabled"
     },
     "group": "darkTheme"
   },
@@ -285,7 +285,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/Brand/AOPay": "enabled"
+      "darkTheme/AOPay": "enabled"
     },
     "group": "darkTheme"
   },
@@ -295,7 +295,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/Brand/ZapEFT": "enabled"
+      "darkTheme/ZapEFT": "enabled"
     },
     "group": "darkTheme"
   },
@@ -305,7 +305,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/Brand/LFI": "enabled"
+      "darkTheme/LFI": "enabled"
     },
     "group": "darkTheme"
   },
@@ -315,7 +315,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/Brand/UdyPay": "enabled"
+      "darkTheme/UdyPay": "enabled"
     },
     "group": "darkTheme"
   },
@@ -325,7 +325,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/Brand/UltraTrading": "enabled"
+      "darkTheme/UltraTrading": "enabled"
     },
     "group": "darkTheme"
   },
@@ -335,7 +335,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/Brand/Rampr": "enabled"
+      "darkTheme/Rampr": "enabled"
     },
     "group": "darkTheme"
   },
@@ -345,7 +345,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/Brand/Komo": "enabled"
+      "darkTheme/Komo": "enabled"
     },
     "group": "darkTheme"
   },
@@ -355,7 +355,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/Brand/Payversa": "enabled"
+      "darkTheme/Payversa": "enabled"
     },
     "group": "darkTheme"
   },
@@ -365,7 +365,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/Brand/PayRoyale": "enabled"
+      "darkTheme/PayRoyale": "enabled"
     },
     "group": "darkTheme"
   },
@@ -375,7 +375,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/Brand/JPPay": "enabled"
+      "darkTheme/JPPay": "enabled"
     },
     "group": "darkTheme"
   },

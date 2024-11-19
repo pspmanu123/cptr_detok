@@ -1,0 +1,64 @@
+{
+  "Primary": {
+    "$type": "color",
+    "$value": "#5850EC",
+    "$description": "Carpentum primary color"
+  },
+  "Hover": {
+    "$type": "color",
+    "$value": "#3D38A5",
+    "$description": "Carpentum primary hover"
+  },
+  "Dark": {
+    "$type": "color",
+    "$value": "#3F51B5",
+    "$description": "Carpentum primary dark"
+  },
+  "Header": {
+    "$type": "color",
+    "$value": "#3F51B5",
+    "$description": "Carpentum Primary header"
+  },
+  "fontFamily": {
+    "$type": "fontFamilies",
+    "$value": "Roboto",
+    "$description": "Carpentum font family"
+  },
+  "active": {
+    "$type": "border",
+    "$value": {
+      "color": "{Primary}",
+      "width": "1.5"
+    },
+    "$description": "Carpentum custom button active"
+  },
+  "tertiary": {
+    "$type": "border",
+    "$value": {
+      "color": "{Primary}",
+      "width": "1"
+    },
+    "$description": "Carpentum tertiary button"
+  },
+  "tertiaryHover": {
+    "$type": "border",
+    "$value": {
+      "color": "{Hover}",
+      "width": "1"
+    },
+    "$description": "Carpentum tertiary button hover"
+  },
+  "headerContrast": {
+    "$type": "color",
+    "$value": "#FFF",
+    "$description": "Contrast Items on header"
+  },
+  "textfieldMultiselect": {
+    "$type": "border",
+    "$value": {
+      "color": "{Primary}",
+      "width": "1"
+    },
+    "$description": "Multi-select textfield default border when there's input"
+  }
+}
