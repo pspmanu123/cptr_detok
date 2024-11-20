@@ -1,7 +1,7 @@
 {
   "Primary": {
     "$type": "color",
-    "$value": "#003C6B",
+    "$value": "#017E72",
     "$description": "Echelon primary color"
   },
   "Hover": {

@@ -1,12 +1,12 @@
 {
   "Primary": {
     "$type": "color",
-    "$value": "#003C6B",
+    "$value": "#6EE4B8",
     "$description": "Echelon primary color"
   },
   "Hover": {
     "$type": "color",
-    "$value": "#052743",
+    "$value": "#009182",
     "$description": "Echelon primary hover"
   },
   "Dark": {
