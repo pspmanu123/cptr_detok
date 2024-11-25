@@ -1,33 +1,38 @@
 {
-  "fontSize12px": {
+  "xs": {
     "$type": "fontSizes",
     "$value": "12px"
   },
-  "fontSize13px": {
+  "s": {
     "$type": "fontSizes",
     "$value": "13px"
   },
-  "fontSize14px": {
+  "m": {
     "$type": "fontSizes",
     "$value": "14px"
   },
-  "fontSize16px": {
+  "xm": {
     "$type": "fontSizes",
     "$value": "16px"
   },
-  "fontSize20px": {
+  "xxm": {
+    "$type": "fontSizes",
+    "$value": "18px",
+    "$description": "18px font size used as a bigger font size for some headings"
+  },
+  "l": {
     "$type": "fontSizes",
     "$value": "20px"
   },
-  "fontSize24px": {
+  "xl": {
     "$type": "fontSizes",
     "$value": "24px"
   },
-  "fontSize32px": {
+  "xxl": {
     "$type": "fontSizes",
     "$value": "32px"
   },
-  "fontSize35px": {
+  "xxxl": {
     "$type": "fontSizes",
     "$value": "35px"
   },

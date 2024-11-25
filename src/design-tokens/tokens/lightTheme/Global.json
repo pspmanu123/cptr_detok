@@ -1,35 +1,48 @@
 {
-  "fontSize12px": {
+  "xs": {
     "$type": "fontSizes",
-    "$value": "12px"
+    "$value": "12px",
+    "$description": "12px font size used in subtexts"
   },
-  "fontSize13px": {
+  "s": {
     "$type": "fontSizes",
-    "$value": "13px"
+    "$value": "13px",
+    "$description": "13px font size used as default font size for body"
   },
-  "fontSize14px": {
+  "m": {
     "$type": "fontSizes",
-    "$value": "14px"
+    "$value": "14px",
+    "$description": "14px font size used as default font for buttons"
   },
-  "fontSize16px": {
+  "xm": {
     "$type": "fontSizes",
-    "$value": "16px"
+    "$value": "16px",
+    "$description": "16px font size used as default size of headings"
   },
-  "fontSize20px": {
+  "xxm": {
     "$type": "fontSizes",
-    "$value": "20px"
+    "$value": "18px",
+    "$description": "18px font size used as a bigger font size for some headings"
   },
-  "fontSize24px": {
+  "l": {
     "$type": "fontSizes",
-    "$value": "24px"
+    "$value": "20px",
+    "$description": "20px font size used as the font size of the top headings on app"
   },
-  "fontSize32px": {
+  "xl": {
     "$type": "fontSizes",
-    "$value": "32px"
+    "$value": "24px",
+    "$description": "24px font size used as a bigger font size for page level headings on web"
   },
-  "fontSize35px": {
+  "xxl": {
     "$type": "fontSizes",
-    "$value": "35px"
+    "$value": "32px",
+    "$description": "32px font size used as a bigger font size for headings in all apps"
+  },
+  "xxxl": {
+    "$type": "fontSizes",
+    "$value": "35px",
+    "$description": "35px font size used as the top heading in documentation pages"
   },
   "Error": {
     "default": {
