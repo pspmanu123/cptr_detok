@@ -454,11 +454,11 @@
     "$type": "fontWeights",
     "$value": "700"
   },
-  "Strikethrough": {
+  "st": {
     "$type": "textDecoration",
     "$value": "line-through"
   },
-  "Underline": {
+  "u": {
     "$type": "textDecoration",
     "$value": "underline"
   },
