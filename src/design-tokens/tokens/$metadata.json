@@ -20,6 +20,7 @@
     "lightTheme/Payversa",
     "lightTheme/PayRoyale",
     "lightTheme/JPPay",
+    "lightTheme/Yaarpay",
     "darkTheme/Global",
     "darkTheme/Carpentum",
     "darkTheme/Echelon",
@@ -33,12 +34,13 @@
     "darkTheme/AOPay",
     "darkTheme/ZapEFT",
     "darkTheme/LFI",
+    "darkTheme/UdyPay",
     "darkTheme/UltraTrading",
     "darkTheme/Rampr",
     "darkTheme/Komo",
     "darkTheme/Payversa",
     "darkTheme/PayRoyale",
     "darkTheme/JPPay",
-    "darkTheme/UdyPay"
+    "darkTheme/Yaarpay"
   ]
 }

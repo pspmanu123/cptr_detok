@@ -5,7 +5,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/Carpentum": "enabled"
+      "lightTheme/Carpentum": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "lightTheme"
   },
@@ -15,7 +17,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/Echelon": "enabled"
+      "lightTheme/Echelon": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "lightTheme"
   },
@@ -25,7 +29,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/AseanPay": "enabled"
+      "lightTheme/AseanPay": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "lightTheme"
   },
@@ -35,7 +41,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/Chalopay": "enabled"
+      "lightTheme/Chalopay": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "lightTheme"
   },
@@ -45,7 +53,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/Wanwei": "enabled"
+      "lightTheme/Wanwei": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "lightTheme"
   },
@@ -55,7 +65,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/HakuPay": "enabled"
+      "lightTheme/HakuPay": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "lightTheme"
   },
@@ -65,7 +77,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/Crypto": "enabled"
+      "lightTheme/Crypto": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "lightTheme"
   },
@@ -75,7 +89,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/SpinPay": "enabled"
+      "lightTheme/SpinPay": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "lightTheme"
   },
@@ -85,7 +101,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/FlashPay": "enabled"
+      "lightTheme/FlashPay": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "lightTheme"
   },
@@ -95,7 +113,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/AOPay": "enabled"
+      "lightTheme/AOPay": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "lightTheme"
   },
@@ -105,7 +125,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/ZapEFT": "enabled"
+      "lightTheme/ZapEFT": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "lightTheme"
   },
@@ -115,7 +137,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/LFI": "enabled"
+      "lightTheme/LFI": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "lightTheme"
   },
@@ -125,7 +149,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/UdyPay": "enabled"
+      "lightTheme/UdyPay": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "lightTheme"
   },
@@ -135,7 +161,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/UltraTrading": "enabled"
+      "lightTheme/UltraTrading": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "lightTheme"
   },
@@ -145,7 +173,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/Rampr": "enabled"
+      "lightTheme/Rampr": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "lightTheme"
   },
@@ -155,7 +185,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/Komo": "enabled"
+      "lightTheme/Komo": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "lightTheme"
   },
@@ -165,7 +197,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/Payversa": "enabled"
+      "lightTheme/Payversa": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "lightTheme"
   },
@@ -175,7 +209,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/PayRoyale": "enabled"
+      "lightTheme/PayRoyale": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "lightTheme"
   },
@@ -185,7 +221,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/JPPay": "enabled"
+      "lightTheme/JPPay": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "lightTheme"
   },
@@ -195,7 +233,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/Carpentum": "enabled"
+      "darkTheme/Carpentum": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "darkTheme"
   },
@@ -205,7 +245,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/Echelon": "enabled"
+      "darkTheme/Echelon": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "darkTheme"
   },
@@ -215,7 +257,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/AseanPay": "enabled"
+      "darkTheme/AseanPay": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "darkTheme"
   },
@@ -225,7 +269,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/Chalopay": "enabled"
+      "darkTheme/Chalopay": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "darkTheme"
   },
@@ -235,7 +281,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/Wanwei": "enabled"
+      "darkTheme/Wanwei": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "darkTheme"
   },
@@ -245,7 +293,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/HakuPay": "enabled"
+      "darkTheme/HakuPay": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "darkTheme"
   },
@@ -255,7 +305,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/Crypto": "enabled"
+      "darkTheme/Crypto": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "darkTheme"
   },
@@ -265,7 +317,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/SpinPay": "enabled"
+      "darkTheme/SpinPay": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "darkTheme"
   },
@@ -275,7 +329,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/FlashPay": "enabled"
+      "darkTheme/FlashPay": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "darkTheme"
   },
@@ -285,7 +341,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/AOPay": "enabled"
+      "darkTheme/AOPay": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "darkTheme"
   },
@@ -295,7 +353,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/ZapEFT": "enabled"
+      "darkTheme/ZapEFT": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "darkTheme"
   },
@@ -305,7 +365,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/LFI": "enabled"
+      "darkTheme/LFI": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "darkTheme"
   },
@@ -315,7 +377,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/UdyPay": "enabled"
+      "darkTheme/UdyPay": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "darkTheme"
   },
@@ -325,7 +389,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/UltraTrading": "enabled"
+      "darkTheme/UltraTrading": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "darkTheme"
   },
@@ -335,7 +401,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/Rampr": "enabled"
+      "darkTheme/Rampr": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "darkTheme"
   },
@@ -345,7 +413,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/Komo": "enabled"
+      "darkTheme/Komo": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "darkTheme"
   },
@@ -355,7 +425,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/Payversa": "enabled"
+      "darkTheme/Payversa": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "darkTheme"
   },
@@ -365,7 +437,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/PayRoyale": "enabled"
+      "darkTheme/PayRoyale": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "darkTheme"
   },
@@ -375,7 +449,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/JPPay": "enabled"
+      "darkTheme/JPPay": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "darkTheme"
   },
@@ -384,7 +460,9 @@
     "name": "global",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "lightTheme/Global": "enabled"
+      "lightTheme/Global": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "lightTheme"
   },
@@ -393,7 +471,9 @@
     "name": "global",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "darkTheme/Global": "enabled"
+      "darkTheme/Global": "enabled",
+      "lightTheme/Yaarpay": "disabled",
+      "darkTheme/Yaarpay": "disabled"
     },
     "group": "darkTheme"
   }
