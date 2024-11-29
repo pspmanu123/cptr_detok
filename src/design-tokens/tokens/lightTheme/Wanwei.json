@@ -21,7 +21,7 @@
   },
   "fontFamily": {
     "$type": "fontFamilies",
-    "$value": "Nunito",
+    "$value": "'Nunito', sans-serif",
     "$description": "Wanwei font family"
   },
   "active": {

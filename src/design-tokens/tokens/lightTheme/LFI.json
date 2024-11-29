@@ -21,7 +21,7 @@
   },
   "fontFamily": {
     "$type": "fontFamilies",
-    "$value": "Poppins",
+    "$value": "'Poppins', sans-serif",
     "$description": "LFI font family"
   },
   "active": {

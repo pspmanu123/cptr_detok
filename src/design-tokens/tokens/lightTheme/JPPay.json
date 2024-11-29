@@ -21,7 +21,7 @@
   },
   "fontFamily": {
     "$type": "fontFamilies",
-    "$value": "Estedad-VF",
+    "$value": "'Estedad-VF', sans-serif",
     "$description": "JPPay font family"
   },
   "active": {

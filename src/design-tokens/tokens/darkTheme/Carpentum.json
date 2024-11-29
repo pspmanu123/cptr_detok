@@ -21,7 +21,7 @@
   },
   "fontFamily": {
     "$type": "fontFamilies",
-    "$value": "Roboto",
+    "$value": "'Roboto', sans-serif",
     "$description": "Carpentum font family"
   },
   "active": {

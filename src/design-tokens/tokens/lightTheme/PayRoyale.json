@@ -21,7 +21,7 @@
   },
   "fontFamily": {
     "$type": "fontFamilies",
-    "$value": "Public Sans",
+    "$value": "'Public Sans', sans-serif",
     "$description": "Pay Royale font family"
   },
   "active": {

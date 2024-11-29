@@ -21,7 +21,7 @@
   },
   "fontFamily": {
     "$type": "fontFamilies",
-    "$value": "Rubik",
+    "$value": "'Rubik', sans-serif",
     "$description": "Echelon font family"
   },
   "active": {

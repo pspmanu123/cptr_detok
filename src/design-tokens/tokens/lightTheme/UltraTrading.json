@@ -21,7 +21,7 @@
   },
   "fontFamily": {
     "$type": "fontFamilies",
-    "$value": "Montserrat",
+    "$value": "'Montserrat', sans-serif",
     "$description": "Ultra trading font family"
   },
   "active": {

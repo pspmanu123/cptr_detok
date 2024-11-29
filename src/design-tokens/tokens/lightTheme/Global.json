@@ -457,16 +457,6 @@
     "$type": "fontWeights",
     "$value": "700"
   },
-  "st": {
-    "$type": "textDecoration",
-    "$value": "line-through",
-    "$description": "Strikethrough texts"
-  },
-  "u": {
-    "$type": "textDecoration",
-    "$value": "underline",
-    "$description": "Underline text"
-  },
   "defaultBorder": {
     "$type": "border",
     "$value": {

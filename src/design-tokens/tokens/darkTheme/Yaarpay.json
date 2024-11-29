@@ -21,8 +21,8 @@
   },
   "fontFamily": {
     "$type": "fontFamilies",
-    "$value": "Estedad-VF",
-    "$description": "JPPay font family"
+    "$value": "'Inter', sans-serif",
+    "$description": "Yaarpay font family"
   },
   "active": {
     "$type": "border",

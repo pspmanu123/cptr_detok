@@ -21,7 +21,7 @@
   },
   "fontFamily": {
     "$type": "fontFamilies",
-    "$value": "Manrope",
+    "$value": "'Manrope', sans-serif",
     "$description": "Flash Pay font family"
   },
   "active": {

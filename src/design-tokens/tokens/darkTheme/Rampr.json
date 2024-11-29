@@ -21,7 +21,7 @@
   },
   "fontFamily": {
     "$type": "fontFamilies",
-    "$value": "Inter",
+    "$value": "'Inter', sans-serif",
     "$description": "Rampr font family"
   },
   "active": {
