@@ -1,41 +1,4 @@
 {
-  "xs": {
-    "$type": "fontSizes",
-    "$value": "12px"
-  },
-  "s": {
-    "$type": "fontSizes",
-    "$value": "13px"
-  },
-  "m": {
-    "$type": "fontSizes",
-    "$value": "14px"
-  },
-  "xm": {
-    "$type": "fontSizes",
-    "$value": "16px"
-  },
-  "xxm": {
-    "$type": "fontSizes",
-    "$value": "18px",
-    "$description": "18px font size used as a bigger font size for some headings"
-  },
-  "l": {
-    "$type": "fontSizes",
-    "$value": "20px"
-  },
-  "xl": {
-    "$type": "fontSizes",
-    "$value": "24px"
-  },
-  "xxl": {
-    "$type": "fontSizes",
-    "$value": "32px"
-  },
-  "xxxl": {
-    "$type": "fontSizes",
-    "$value": "35px"
-  },
   "Error": {
     "default": {
       "main": {
@@ -431,28 +394,6 @@
       "$value": "#3C3C3C",
       "$description": "Divider border color"
     }
-  },
-  "big": {
-    "$type": "lineHeights",
-    "$value": "120%",
-    "$description": "When font-size is greater than 20px"
-  },
-  "small": {
-    "$type": "lineHeights",
-    "$value": "140%",
-    "$description": "When font-size is lesser than 21px"
-  },
-  "Regular": {
-    "$type": "fontWeights",
-    "$value": "400"
-  },
-  "Medium": {
-    "$type": "fontWeights",
-    "$value": "500"
-  },
-  "Bold": {
-    "$type": "fontWeights",
-    "$value": "700"
   },
   "defaultBorder": {
     "$type": "border",

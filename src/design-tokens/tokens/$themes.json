@@ -5,7 +5,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/Carpentum": "enabled"
+      "lightTheme/Carpentum": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "lightTheme"
   },
@@ -15,7 +18,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/Echelon": "enabled"
+      "lightTheme/Echelon": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "lightTheme"
   },
@@ -25,7 +31,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/AseanPay": "enabled"
+      "lightTheme/AseanPay": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "lightTheme"
   },
@@ -35,7 +44,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/Chalopay": "enabled"
+      "lightTheme/Chalopay": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "lightTheme"
   },
@@ -45,7 +57,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/Wanwei": "enabled"
+      "lightTheme/Wanwei": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "lightTheme"
   },
@@ -55,7 +70,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/HakuPay": "enabled"
+      "lightTheme/HakuPay": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "lightTheme"
   },
@@ -65,7 +83,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/Crypto": "enabled"
+      "lightTheme/Crypto": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "lightTheme"
   },
@@ -75,7 +96,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/SpinPay": "enabled"
+      "lightTheme/SpinPay": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "lightTheme"
   },
@@ -85,7 +109,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/FlashPay": "enabled"
+      "lightTheme/FlashPay": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "lightTheme"
   },
@@ -95,7 +122,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/AOPay": "enabled"
+      "lightTheme/AOPay": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "lightTheme"
   },
@@ -105,7 +135,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/ZapEFT": "enabled"
+      "lightTheme/ZapEFT": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "lightTheme"
   },
@@ -115,7 +148,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/LFI": "enabled"
+      "lightTheme/LFI": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "lightTheme"
   },
@@ -125,7 +161,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/UdyPay": "enabled"
+      "lightTheme/UdyPay": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "lightTheme"
   },
@@ -135,7 +174,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/UltraTrading": "enabled"
+      "lightTheme/UltraTrading": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "lightTheme"
   },
@@ -145,7 +187,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/Rampr": "enabled"
+      "lightTheme/Rampr": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "lightTheme"
   },
@@ -155,7 +200,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/Komo": "enabled"
+      "lightTheme/Komo": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "lightTheme"
   },
@@ -165,7 +213,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/Payversa": "enabled"
+      "lightTheme/Payversa": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "lightTheme"
   },
@@ -175,7 +226,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/PayRoyale": "enabled"
+      "lightTheme/PayRoyale": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "lightTheme"
   },
@@ -185,7 +239,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "lightTheme/Global": "enabled",
-      "lightTheme/JPPay": "enabled"
+      "lightTheme/JPPay": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "lightTheme"
   },
@@ -195,7 +252,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/Carpentum": "enabled"
+      "darkTheme/Carpentum": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "darkTheme"
   },
@@ -205,7 +265,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/Echelon": "enabled"
+      "darkTheme/Echelon": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "darkTheme"
   },
@@ -215,7 +278,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/AseanPay": "enabled"
+      "darkTheme/AseanPay": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "darkTheme"
   },
@@ -225,7 +291,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/Chalopay": "enabled"
+      "darkTheme/Chalopay": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "darkTheme"
   },
@@ -235,7 +304,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/Wanwei": "enabled"
+      "darkTheme/Wanwei": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "darkTheme"
   },
@@ -245,7 +317,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/HakuPay": "enabled"
+      "darkTheme/HakuPay": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "darkTheme"
   },
@@ -255,7 +330,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/Crypto": "enabled"
+      "darkTheme/Crypto": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "darkTheme"
   },
@@ -265,7 +343,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/SpinPay": "enabled"
+      "darkTheme/SpinPay": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "darkTheme"
   },
@@ -275,7 +356,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/FlashPay": "enabled"
+      "darkTheme/FlashPay": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "darkTheme"
   },
@@ -285,7 +369,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/AOPay": "enabled"
+      "darkTheme/AOPay": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "darkTheme"
   },
@@ -295,7 +382,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/ZapEFT": "enabled"
+      "darkTheme/ZapEFT": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "darkTheme"
   },
@@ -305,7 +395,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/LFI": "enabled"
+      "darkTheme/LFI": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "darkTheme"
   },
@@ -315,7 +408,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/UdyPay": "enabled"
+      "darkTheme/UdyPay": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "darkTheme"
   },
@@ -325,7 +421,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/UltraTrading": "enabled"
+      "darkTheme/UltraTrading": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "darkTheme"
   },
@@ -335,7 +434,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/Rampr": "enabled"
+      "darkTheme/Rampr": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "darkTheme"
   },
@@ -345,7 +447,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/Komo": "enabled"
+      "darkTheme/Komo": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "darkTheme"
   },
@@ -355,7 +460,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/Payversa": "enabled"
+      "darkTheme/Payversa": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "darkTheme"
   },
@@ -365,7 +473,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/PayRoyale": "enabled"
+      "darkTheme/PayRoyale": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "darkTheme"
   },
@@ -375,7 +486,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "darkTheme/Global": "enabled",
-      "darkTheme/JPPay": "enabled"
+      "darkTheme/JPPay": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "darkTheme"
   },
@@ -384,7 +498,10 @@
     "name": "global",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "lightTheme/Global": "enabled"
+      "lightTheme/Global": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "lightTheme"
   },
@@ -393,7 +510,10 @@
     "name": "global",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "darkTheme/Global": "enabled"
+      "darkTheme/Global": "enabled",
+      "default/LineHeight": "disabled",
+      "default/FontWeight": "disabled",
+      "default/FontSize": "disabled"
     },
     "group": "darkTheme"
   }

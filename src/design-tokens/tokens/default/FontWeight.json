@@ -1,0 +1,14 @@
+{
+  "regular": {
+    "$type": "fontWeights",
+    "$value": "400"
+  },
+  "medium": {
+    "$type": "fontWeights",
+    "$value": "500"
+  },
+  "bold": {
+    "$type": "fontWeights",
+    "$value": "700"
+  }
+}

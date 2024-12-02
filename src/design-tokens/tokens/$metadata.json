@@ -1,5 +1,8 @@
 {
   "tokenSetOrder": [
+    "default/FontSize",
+    "default/FontWeight",
+    "default/LineHeight",
     "lightTheme/Global",
     "lightTheme/Carpentum",
     "lightTheme/Echelon",
