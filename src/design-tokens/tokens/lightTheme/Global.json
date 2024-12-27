@@ -48,8 +48,13 @@
     "default": {
       "main": {
         "$type": "color",
-        "$value": "#CF1414",
+        "$value": "#C62828",
         "$description": "Error default main"
+      },
+      "contrast": {
+        "$type": "color",
+        "$value": "#C62828",
+        "$description": "Error default contrast (icons / text)"
       },
       "background": {
         "$type": "color",
@@ -70,7 +75,7 @@
       },
       "background": {
         "$type": "color",
-        "$value": "#CF1414",
+        "$value": "#C62828",
         "$description": "Error filled background"
       },
       "label": {
@@ -84,12 +89,17 @@
     "default": {
       "main": {
         "$type": "color",
-        "$value": "#0C7810",
+        "$value": "#2E7D32",
         "$description": "Success default main"
+      },
+      "contrast": {
+        "$type": "color",
+        "$value": "#2E7D32",
+        "$description": "Success default contrast (icons / text)"
       },
       "background": {
         "$type": "color",
-        "$value": "#E2F9E2",
+        "$value": "#E8F5E9",
         "$description": "Success default background"
       },
       "label": {
@@ -106,7 +116,7 @@
       },
       "background": {
         "$type": "color",
-        "$value": "#0C7810",
+        "$value": "#2E7D32",
         "$description": "Success filled background"
       },
       "label": {
@@ -120,8 +130,13 @@
     "default": {
       "main": {
         "$type": "color",
-        "$value": "#006DD1",
+        "$value": "#1565C0",
         "$description": "Info default main"
+      },
+      "contrast": {
+        "$type": "color",
+        "$value": "#1565C0",
+        "$description": "Info default contrast (icons / text)"
       },
       "background": {
         "$type": "color",
@@ -142,7 +157,7 @@
       },
       "background": {
         "$type": "color",
-        "$value": "#006DD1",
+        "$value": "#1565C0",
         "$description": "Info filled background"
       },
       "label": {
@@ -159,9 +174,14 @@
         "$value": "#ED6C02",
         "$description": "Warning default main"
       },
+      "contrast": {
+        "$type": "color",
+        "$value": "#ED6C02",
+        "$description": "Warning default contrast (icons / text)"
+      },
       "background": {
         "$type": "color",
-        "$value": "#FFEFD8",
+        "$value": "#FFF3E0",
         "$description": "Warning default background"
       },
       "label": {
