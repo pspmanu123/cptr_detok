@@ -320,7 +320,7 @@
     "links": {
       "light": {
         "$type": "color",
-        "$value": "#006DD1",
+        "$value": "#1565C0",
         "$description": "Links on Light BG"
       },
       "dark": {

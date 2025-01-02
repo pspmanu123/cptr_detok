@@ -317,7 +317,7 @@
       },
       "dark": {
         "$type": "color",
-        "$value": "#006DD1",
+        "$value": "#1565C0",
         "$description": "Links on dark BG"
       },
       "breadcrumbs": {
