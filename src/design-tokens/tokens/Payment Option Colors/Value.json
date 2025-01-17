@@ -1,0 +1,792 @@
+{
+  "CNY": {
+    "China Construction Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#0066b3"
+    },
+    "Agricultural Bank of China": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#00d3c4"
+    },
+    "Industrial and Commercial Bank of China": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#bc0021"
+    },
+    "Bank of China": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#b5012a"
+    },
+    "China Merchants Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#cc0000"
+    },
+    "Postal Savings Bank of China": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#5da875"
+    },
+    "Bank of Communications": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#1655a3"
+    },
+    "China Everbright Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#6d1786"
+    },
+    "Shanghai Pudong Development Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#004790"
+    },
+    "China Minsheng Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#2474bb"
+    },
+    "China CITIC Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#d71920"
+    },
+    "China Guangfa Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#ba1021"
+    },
+    "Ping An Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#f15922"
+    },
+    "China Industrial Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#0080d8"
+    }
+  },
+  "IDR": {
+    "Bank Mandiri": {
+      "parent": "Payment Option Colors/Value",
+      "$type": "color",
+      "$value": "#1a5289",
+      "$description": "Use only in Payment Options"
+    },
+    "Bank Rakyat Indonesia (BRI)": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#014a94"
+    },
+    "Bank Central Asia (BCA)": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#0066ae"
+    },
+    "Bank CIMB Niaga": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#ff0000"
+    },
+    "Bank Permata": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#121f26"
+    },
+    "Bank Sinarmas": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#cc0f0f"
+    },
+    "Bank Sahabat Sampoerna": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#d31800"
+    },
+    "Maybank Indonesia": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#ffc600"
+    },
+    "Bank Negara Indonesia": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#2b98ab"
+    },
+    "Bank Danamon": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#ffa400"
+    },
+    "DANA": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#108ee9"
+    },
+    "OVO": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#4c2a86"
+    },
+    "ShopeePay": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#ee4d2d"
+    },
+    "GoPay": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#00aed6"
+    },
+    "LinkAja": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#ff2c2c"
+    }
+  },
+  "JPY": {
+    "Rakuten Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#bf0000"
+    },
+    "Sumitomo Mitsui Banking Corporation": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#004831"
+    },
+    "PayPay Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#3895ff"
+    },
+    "MUFG Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#e60000"
+    },
+    "Japan Post Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#009900"
+    },
+    "Mizuho Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#1b3281"
+    },
+    "Resona Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#0ca26c"
+    },
+    "Bank of Yokohama": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#01478f"
+    },
+    "Bank of Fukuoka": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#00a7db"
+    },
+    "JA Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#007440"
+    },
+    "Hokkaido Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#009743"
+    }
+  },
+  "KRW": {
+    "Woori Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#0083ca"
+    },
+    "KEB Hana Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#018085"
+    },
+    "Nonghyup Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#046fd9"
+    },
+    "Shinhan Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#2d71c4"
+    },
+    "Kwangju Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#0082dd"
+    },
+    "Suhyup Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#2a88df"
+    },
+    "Epostbank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#d21e1f"
+    },
+    "K Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#0f0060"
+    },
+    "Standard Chartered Korea": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#18abeb"
+    },
+    "Citibank Korea": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#056dae"
+    },
+    "Kyongnam Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#d71921"
+    },
+    "Jeonbuk Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#115dab"
+    },
+    "Jeju Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#0046ff"
+    },
+    "Kakaobank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#fede22"
+    },
+    "KB Kookmin Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#f9ba21"
+    },
+    "Korea Development Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#003d7e"
+    },
+    "Industrial Bank of Korea": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#145198"
+    },
+    "DGB Daegu Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#007dc4"
+    },
+    "Busan Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#414b4a"
+    },
+    "MG Saemaul Geumgo": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#08386a"
+    }
+  },
+  "LAK": {
+    "BCEL": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#b71113"
+    },
+    "Lao Development Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#1783c8"
+    },
+    "LaoViet Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#17479e"
+    },
+    "JDB": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#03539e"
+    },
+    "Agricultural Promotion Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#118174"
+    },
+    "ANZ Laos": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#0072ac"
+    },
+    "BIC Bank Lao": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#2d3792"
+    },
+    "ST Hub": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#0903ff"
+    }
+  },
+  "INR": {
+    "State Bank of India": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#12a8e0"
+    },
+    "HDFC Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#04366e"
+    },
+    "ICICI Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#f27b1a"
+    },
+    "Kotak Mahindra Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#ee1c25"
+    },
+    "Punjab National Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#a30d3b"
+    },
+    "IDBI Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#f58220"
+    },
+    "Bank of Baroda": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#ff6633"
+    },
+    "YES Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#0062a8"
+    },
+    "Canara Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#1e90d3"
+    },
+    "IndusInd Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#9d1214"
+    },
+    "Axis Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#97144d"
+    },
+    "BHIM": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#093a8a"
+    },
+    "Paytm": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#00baf2"
+    },
+    "GooglePay": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#1a73e8"
+    },
+    "PhonePe": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#5f259f"
+    },
+    "UPI": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#e97626"
+    },
+    "HSBC": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#093a8a"
+    },
+    "UPI Generic": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#4695ec"
+    }
+  },
+  "MYR": {
+    "Maybank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#ffc83d"
+    },
+    "Public Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#bb2413"
+    },
+    "RHB Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#0067b1"
+    },
+    "Hong Leong Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#002d62"
+    },
+    "AmBank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#d83f2f"
+    },
+    "CIMB Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#ec1d23"
+    },
+    "United Overseas Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#2671d7"
+    },
+    "OCBC Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#b40f17"
+    },
+    "HSBC Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#db0011"
+    },
+    "Touch 'n Go": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#0047ba"
+    },
+    "GrabPay": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#069d3a"
+    },
+    "Boost": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#f0303d"
+    },
+    "BigPay": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#00465a"
+    },
+    "DuitNow": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#ee3168"
+    }
+  },
+  "THB": {
+    "Bangkok Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#003399"
+    },
+    "Kasikorn Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#4dcd8a"
+    },
+    "Krungthai Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#00a4e4"
+    },
+    "Bank of Ayudhya (Krungsri)": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#ffd400"
+    },
+    "Government Savings Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#ee5a94"
+    },
+    "TMBThanachart Bank (ttb)": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#0050f0"
+    },
+    "United Overseas Bank (UOB)": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#2671d7"
+    }
+  },
+  "VND": {
+    "Vietcombank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#72bf00"
+    },
+    "DongA Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#f69320"
+    },
+    "Eximbank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#005d98"
+    },
+    "Sacombank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#004f93"
+    },
+    "VPBank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#01ad52"
+    },
+    "TPBank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#7b35bb"
+    },
+    "BIDV": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#00524e"
+    },
+    "Asia Commercial Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#2b4da4"
+    },
+    "Vietinbank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#005691"
+    },
+    "Techcombank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#ed1c24"
+    },
+    "MoMo": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#d82d8b"
+    }
+  },
+  "ZAR": {
+    "ABSA": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#af144b"
+    },
+    "First National Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#009999"
+    },
+    "Capitec": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#009de0"
+    },
+    "Standard": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#0033a1"
+    },
+    "Access Bank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#ee7e01"
+    },
+    "TymeBank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#fdc600"
+    },
+    "Nedbank": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#008533"
+    }
+  },
+  "CRYPTO": {
+    "TRON (TRC-20)": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#eb0029"
+    },
+    "Ethereum (ERC-20)": {
+      "parent": "Payment Option Colors/Value",
+      "description": "",
+      "$type": "color",
+      "$value": "#8a92b2"
+    }
+  },
+  "Default": {
+    "parent": "Payment Option Colors/Value",
+    "description": "",
+    "$type": "color",
+    "$value": "{CAR.Purple-265 #5850EC}"
+  }
+}

@@ -1,0 +1,612 @@
+{
+  "Global": {
+    "Gray-517 #3D3D3D": {
+      "parent": "Brand Colors/Dark Mode",
+      "$type": "color",
+      "$value": "#ffffff",
+      "$description": "Used: Types, Buttons"
+    },
+    "Gray-226 #737373": {
+      "parent": "Brand Colors/Dark Mode",
+      "$type": "color",
+      "$value": "#ffffff",
+      "$description": "Used: Types, Border"
+    },
+    "Blue-243 #006DD1": {
+      "parent": "Brand Colors/Dark Mode",
+      "$type": "color",
+      "$value": "#48aeff",
+      "$description": "Used: Links"
+    },
+    "Red-238 #DC1A1A": {
+      "parent": "Brand Colors/Dark Mode",
+      "$type": "color",
+      "$value": "#dc1a1a",
+      "$description": "Used: Warnings"
+    },
+    "Gray-60 #E4E4E4": {
+      "parent": "Brand Colors/Dark Mode",
+      "$type": "color",
+      "$value": "#e4e4e4",
+      "$description": "Used: Borders"
+    },
+    "Black #000000": {
+      "parent": "Brand Colors/Dark Mode",
+      "$type": "color",
+      "$value": "#ffffff",
+      "$description": "Just the pitch black"
+    },
+    "White #FFFFFF": {
+      "parent": "Brand Colors/Dark Mode",
+      "$type": "color",
+      "$value": "#000000",
+      "$description": "Just the white"
+    },
+    "BlueGray-345 #455A64": {
+      "parent": "Brand Colors/Dark Mode",
+      "$type": "color",
+      "$value": "#ffffff",
+      "$description": "Used: Types"
+    },
+    "BlueGray-69 #CFD8DC": {
+      "parent": "Brand Colors/Dark Mode",
+      "$type": "color",
+      "$value": "#cfd8dc",
+      "$description": "Used:"
+    },
+    "BlueGray-257 #546E7A": {
+      "parent": "Brand Colors/Dark Mode",
+      "$type": "color",
+      "$value": "#ffffff",
+      "$description": "Used: Types"
+    },
+    "Gray-53 #F2F2F2": {
+      "parent": "Brand Colors/Dark Mode",
+      "$type": "color",
+      "$value": "#f2f2f2",
+      "$description": "Used: Backgrounds"
+    },
+    "Gray-50 #F9F9F9": {
+      "parent": "Brand Colors/Dark Mode",
+      "$type": "color",
+      "$value": "#f9f9f9",
+      "$description": "Used: Backgrounds"
+    },
+    "Green-132 #4CAF50": {
+      "parent": "Brand Colors/Dark Mode",
+      "$type": "color",
+      "$value": "#4caf50",
+      "$description": "Used: NEW (MCP)"
+    },
+    "Red-54 #FDEDED": {
+      "parent": "Brand Colors/Dark Mode",
+      "$type": "color",
+      "$value": "#fdeded",
+      "$description": "Used: Warning Backgrounds"
+    },
+    "Blue-52 #E5F6FD": {
+      "parent": "Brand Colors/Dark Mode",
+      "$type": "color",
+      "$value": "#e5f6fd",
+      "$description": "Used: Info Backgrounds"
+    },
+    "Orange-53 #FFEFD8": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#ffefd8"
+    },
+    "Orange-148 #ED6C02": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#ed6c02"
+    },
+    "Green-52 #EDF7ED": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#edf7ed"
+    },
+    "BlueGray-54 #ECEFF1": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#eceff1"
+    },
+    "Gray-89 #BDBDBD": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#bdbdbd"
+    },
+    "Gray-67 #D9D9D9": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#d9d9d9"
+    },
+    "Gray-57 #EBEBEB": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#ebebeb"
+    },
+    "Blue-114 #48AEFF": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#48aeff"
+    },
+    "BlueGray-626 #263238": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#ffffff"
+    },
+    "BlueGray-90 #B0BEC5": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#b0bec5"
+    }
+  },
+  "AP": {
+    "Blue-352 #2D5789": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#2d5789"
+    },
+    "Green-166 #2C9A79": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#2c9a79"
+    },
+    "Green-124 #2BB673": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#2bb673"
+    },
+    "Green-57 #D8EFE9": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#d8efe9"
+    },
+    "Gray-207 #747A7F": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#747a7f"
+    }
+  },
+  "CP": {
+    "Green-130 #00B451": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#00b451"
+    },
+    "LightGreen-85 #93D500": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#93d500"
+    },
+    "Orange-111 #FF8B2C": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#ff8b2c"
+    },
+    "Green-217 #008847": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#008847"
+    },
+    "Mint-56 #E7EEEC": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#e7eeec"
+    }
+  },
+  "SP": {
+    "Blue-114 #00B1FF": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#00b1ff"
+    },
+    "Orange-90 #FFAA00": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#ffaa00"
+    },
+    "Blue-227 #0075CB": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#0075cb"
+    },
+    "Blue-130 #00A3FF": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#00a3ff"
+    },
+    "Blue-409 #004A9A": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#004a9a"
+    }
+  },
+  "LFI": {
+    "Teal-270 #0D7278": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#0d7278"
+    },
+    "Teal-210 #02858D": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#02858d"
+    },
+    "Teal-121 #00B6A9": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#00b6a9"
+    },
+    "Green-156 #00A185": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#00a185"
+    }
+  },
+  "CAR": {
+    "Purple-265 #5850EC": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#5850ec"
+    },
+    "Purple-327 #3F51B5": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#3f51b5"
+    },
+    "Purple-87 #B0BCFF": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#b0bcff"
+    },
+    "Purple-729 #17176B": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#17176b"
+    },
+    "Pink-209 #EA1F50": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#ea1f50"
+    },
+    "Purple-495 #313D6D": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#313d6d"
+    }
+  },
+  "FP": {
+    "Green-117 #5CB773": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#5cb773"
+    },
+    "Teal-144 #12A78A": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#12a78a"
+    },
+    "Teal-247 #087A73": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#087a73"
+    },
+    "Teal-387 #045959": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#045959"
+    },
+    "Yellow-65 #FFDA3F": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#ffda3f"
+    },
+    "Gold-78 #E6C84C": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#e6c84c"
+    }
+  },
+  "AOP": {
+    "Maroon-820 #2D1319": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#2d1319"
+    },
+    "Maroon-523 #701C38": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#701c38"
+    },
+    "Maroon-309 #8C495F": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#8c495f"
+    }
+  },
+  "JP": {
+    "Marine-127#12B0AF": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#12b0af"
+    },
+    "Violet-136 #2C135D": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#2c135d"
+    },
+    "Marine-198 #008B8A": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#008b8a"
+    },
+    "Violet-411 #4E4187": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#4e4187"
+    }
+  },
+  "PV": {
+    "Blue-845 #12172B": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#12172b"
+    },
+    "Aqua-156 #1F99C2": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#1f99c2"
+    },
+    "Blue-690 #1F2845": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#1f2845"
+    },
+    "Aqua-94 #6CC4E2": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#6cc4e2"
+    }
+  },
+  "ZE": {
+    "Blue-877 #021622": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#021622"
+    },
+    "Green-464 #1B4D31": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#1b4d31"
+    },
+    "Green-214 #018944": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#018944"
+    },
+    "Green-94 #61CE70": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#61ce70"
+    }
+  },
+  "Project FE": {
+    "Blue-132 #29A1F7": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#29a1f7"
+    },
+    "Red-166 #EB5757": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#eb5757"
+    },
+    "Green-90 #6FCF97": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#6fcf97"
+    }
+  },
+  "HP": {
+    " Purple-342 #50557A": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#50557a"
+    },
+    "Coral-132 #F96F6F": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#f96f6f"
+    },
+    "Purple-901 #040A3A": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#040a3a"
+    },
+    "Magenta-170 #FF3459": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#ff3459"
+    }
+  },
+  "Crypto": {
+    "Violet-243 #9D3ADF": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#9d3adf"
+    },
+    "Blue-266 #106AB6": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#106ab6"
+    }
+  },
+  "WW": {
+    "Gray-360 #545454": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#545454"
+    },
+    "Red-263 #CC1B3D": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#cc1b3d"
+    },
+    "Gray-61 #E2E2E2": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#e2e2e2"
+    },
+    "Yellow-80 #FFBC00": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#ffbc00"
+    }
+  },
+  "PR": {
+    "Blue-681 #0A2662": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#0a2662"
+    },
+    "Blue-411 #1143AD": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#1143ad"
+    },
+    "Blue-287 #0159DE": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#0159de"
+    },
+    "Blue-201 #1F75F8": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#1f75f8"
+    },
+    "Gold-103 #D4AC00": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#d4ac00"
+    },
+    "Yellow-76 #FFC306": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#ffc306"
+    },
+    "Yellow-68 #FFD31A": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#ffd31a"
+    }
+  },
+  "UT": {
+    "Gray-776 #231F20": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#231f20"
+    },
+    "Gray-549 #373A36": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#373a36"
+    },
+    "Gray-365 #505454": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#505454"
+    },
+    "Gray-129 #90A19D": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#90a19d"
+    },
+    "Gray-237 #6E7071": {
+      "parent": "Brand Colors/Dark Mode",
+      "description": "",
+      "$type": "color",
+      "$value": "#6e7071"
+    }
+  }
+}
