@@ -14,7 +14,7 @@
     "$value": "#1B4D31",
     "$description": "ZapEFT primary dark"
   },
-  "fontFamily": {
+  "main": {
     "$type": "fontFamilies",
     "$value": "'Inter', sans-serif",
     "$description": "Zap EFT font family"

@@ -19,7 +19,7 @@
     "$value": "linear-gradient(269.64deg, #008847 0.31%, #008847 16.32%, #089E56 36.75%, #00B451 62.7%, #93D500 99.69%)",
     "$description": "Chalopay header"
   },
-  "fontFamily": {
+  "main": {
     "$type": "fontFamilies",
     "$value": "'Nunito', sans-serif",
     "$description": "Chalopay font family"

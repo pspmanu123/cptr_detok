@@ -19,7 +19,7 @@
     "$value": "#50557A",
     "$description": "Haku pay primary header"
   },
-  "fontFamily": {
+  "main": {
     "$type": "fontFamilies",
     "$value": "'Nunito', sans-serif",
     "$description": "HakuPay font family"

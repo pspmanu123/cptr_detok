@@ -19,7 +19,7 @@
     "$value": "#0A2662",
     "$description": "Pay Royale primary header"
   },
-  "fontFamily": {
+  "main": {
     "$type": "fontFamilies",
     "$value": "'Public Sans', sans-serif",
     "$description": "Pay Royale font family"

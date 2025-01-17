@@ -19,7 +19,7 @@
     "$value": "#0075CB",
     "$description": "Spin Pay primary header"
   },
-  "fontFamily": {
+  "main": {
     "$type": "fontFamilies",
     "$value": "'Inter', sans-serif",
     "$description": "Spin Pay font family"

@@ -19,7 +19,7 @@
     "$value": "linear-gradient(270deg, #9D3ADF 0%, #106AB6 100%)",
     "$description": "Crypto primary header"
   },
-  "fontFamily": {
+  "main": {
     "$type": "fontFamilies",
     "$value": "'Nunito', sans-serif",
     "$description": "Crypto font family"

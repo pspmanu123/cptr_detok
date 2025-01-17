@@ -19,7 +19,7 @@
     "$value": "#2E2A2A",
     "$description": "Komo primary header"
   },
-  "fontFamily": {
+  "main": {
     "$type": "fontFamilies",
     "$value": "'Inter', sans-serif",
     "$description": "Komo font family"

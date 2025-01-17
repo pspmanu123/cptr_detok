@@ -19,7 +19,7 @@
     "$value": "linear-gradient(89.83deg, #FFDA3F 0.11%, #BACB55 19.25%, #46B279 37.87%, #12A78A 58.3%, #0D917F 72.31%, #087A73 99.43%)",
     "$description": "FlashPay primary header"
   },
-  "fontFamily": {
+  "main": {
     "$type": "fontFamilies",
     "$value": "'Manrope', sans-serif",
     "$description": "Flash Pay font family"

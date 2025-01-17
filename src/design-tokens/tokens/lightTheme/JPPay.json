@@ -19,7 +19,7 @@
     "$value": "#2C135D",
     "$description": "JP Pay primary header"
   },
-  "fontFamily": {
+  "main": {
     "$type": "fontFamilies",
     "$value": "'Estedad-VF', sans-serif",
     "$description": "JPPay font family"

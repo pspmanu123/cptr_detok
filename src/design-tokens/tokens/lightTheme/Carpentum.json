@@ -19,7 +19,7 @@
     "$value": "#3F51B5",
     "$description": "Carpentum Primary header"
   },
-  "fontFamily": {
+  "main": {
     "$type": "fontFamilies",
     "$value": "'Roboto', sans-serif",
     "$description": "Carpentum font family"

@@ -19,7 +19,7 @@
     "$value": "#2D5789",
     "$description": "AseanPay primary header"
   },
-  "fontFamily": {
+  "main": {
     "$type": "fontFamilies",
     "$value": "'Nunito', sans-serif",
     "$description": "AseanPay font family"

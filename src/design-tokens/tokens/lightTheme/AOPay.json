@@ -19,7 +19,7 @@
     "$value": "linear-gradient(90deg, #701C38 0%, #2D1319 100%)",
     "$description": "AO Pay primary header"
   },
-  "fontFamily": {
+  "main": {
     "$type": "fontFamilies",
     "$value": "'Inter', sans-serif",
     "$description": "AO Pay font family"

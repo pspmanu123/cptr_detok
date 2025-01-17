@@ -19,7 +19,7 @@
     "$value": "linear-gradient(90deg, #542988 35%, #2D175B 100%)",
     "$description": "Udy Pay primary header"
   },
-  "fontFamily": {
+  "main": {
     "$type": "fontFamilies",
     "$value": "'Inter', sans-serif",
     "$description": "Udy Pay font family"

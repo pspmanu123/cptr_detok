@@ -19,7 +19,7 @@
     "$value": "#02858D",
     "$description": "LFI primary header"
   },
-  "fontFamily": {
+  "main": {
     "$type": "fontFamilies",
     "$value": "'Poppins', sans-serif",
     "$description": "LFI font family"

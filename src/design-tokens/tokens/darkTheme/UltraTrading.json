@@ -19,7 +19,7 @@
     "$value": "#32383C",
     "$description": "Ultra Trading primary header"
   },
-  "fontFamily": {
+  "main": {
     "$type": "fontFamilies",
     "$value": "'Montserrat', sans-serif",
     "$description": "Ultra trading font family"

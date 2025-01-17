@@ -19,7 +19,7 @@
     "$value": "#E2E2E2",
     "$description": "Wanwei primary header"
   },
-  "fontFamily": {
+  "main": {
     "$type": "fontFamilies",
     "$value": "'Nunito', sans-serif",
     "$description": "Wanwei font family"

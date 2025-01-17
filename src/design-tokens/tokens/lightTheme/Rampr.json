@@ -19,7 +19,7 @@
     "$value": "linear-gradient(90deg, #FF384D 0%, #07075B 100%)",
     "$description": "Rampr primary header"
   },
-  "fontFamily": {
+  "main": {
     "$type": "fontFamilies",
     "$value": "'Inter', sans-serif",
     "$description": "Rampr font family"

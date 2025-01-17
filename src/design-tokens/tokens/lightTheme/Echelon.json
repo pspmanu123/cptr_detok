@@ -19,7 +19,7 @@
     "$value": "#003C6B",
     "$description": "Echelon primary header"
   },
-  "fontFamily": {
+  "main": {
     "$type": "fontFamilies",
     "$value": "'Rubik', sans-serif",
     "$description": "Echelon font family"

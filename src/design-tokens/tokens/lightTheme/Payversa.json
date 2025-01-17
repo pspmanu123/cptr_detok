@@ -19,7 +19,7 @@
     "$value": "#12172B",
     "$description": "Payversa primary header"
   },
-  "fontFamily": {
+  "main": {
     "$type": "fontFamilies",
     "$value": "'Inter', sans-serif",
     "$description": "Payversa font family"
