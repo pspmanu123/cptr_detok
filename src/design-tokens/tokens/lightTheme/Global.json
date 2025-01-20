@@ -370,6 +370,11 @@
       "$value": "#3D3D3D",
       "$description": "Icon fill color by default"
     },
+    "dark": {
+      "$type": "color",
+      "$value": "#3D3D3D",
+      "$description": "Icon fill color no changes"
+    },
     "background": {
       "$type": "color",
       "$value": "#FFFFFF",
