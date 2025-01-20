@@ -600,5 +600,15 @@
       "$value": "#663C00",
       "$description": "Warning dark"
     }
+  },
+  "white": {
+    "$type": "color",
+    "$value": "#FFF",
+    "$description": "White"
+  },
+  "black": {
+    "$type": "color",
+    "$value": "#000",
+    "$description": "Black"
   }
 }

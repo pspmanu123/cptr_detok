@@ -582,5 +582,15 @@
       "$value": "#FFF3E0",
       "$description": "Warning dark"
     }
+  },
+  "white": {
+    "$type": "color",
+    "$value": "#000",
+    "$description": "White"
+  },
+  "black": {
+    "$type": "color",
+    "$value": "#FFF",
+    "$description": "Black"
   }
 }
