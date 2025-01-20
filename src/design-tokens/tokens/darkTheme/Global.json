@@ -275,7 +275,7 @@
       },
       "activeBG": {
         "$type": "color",
-        "$value": "{alert.success.defaultIcon}",
+        "$value": "{success.main}",
         "$description": "Switch background active in bo"
       }
     },
