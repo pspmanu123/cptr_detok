@@ -43,7 +43,7 @@
         "$value": "{error.main}",
         "$description": "Error alert default icon"
       },
-      "defaultBG": {
+      "defaultBackground": {
         "$type": "color",
         "$value": "#5F2120",
         "$description": "Error default background"
@@ -58,7 +58,7 @@
         "$value": "#FFFFFF",
         "$description": "Error filled main"
       },
-      "filledBG": {
+      "filledBackground": {
         "$type": "color",
         "$value": "#CF1414",
         "$description": "Error filled background"
@@ -75,7 +75,7 @@
         "$value": "#E2F9E2",
         "$description": "Success default main"
       },
-      "defaultBG": {
+      "defaultBackground": {
         "$type": "color",
         "$value": "#1E4620",
         "$description": "Success default background"
@@ -90,7 +90,7 @@
         "$value": "#FFFFFF",
         "$description": "Success filled main"
       },
-      "filledBG": {
+      "filledBackground": {
         "$type": "color",
         "$value": "#0C7810",
         "$description": "Success filled background"
@@ -107,7 +107,7 @@
         "$value": "#E5F6FD",
         "$description": "Info default main"
       },
-      "defaultBG": {
+      "defaultBackground": {
         "$type": "color",
         "$value": "#014361",
         "$description": "Info default background"
@@ -122,7 +122,7 @@
         "$value": "#FFFFFF",
         "$description": "Info filled main"
       },
-      "filledBG": {
+      "filledBackground": {
         "$type": "color",
         "$value": "#006DD1",
         "$description": "Info filled background"
@@ -139,7 +139,7 @@
         "$value": "#FFEFD8",
         "$description": "Warning default main"
       },
-      "defaultBG": {
+      "defaultBackground": {
         "$type": "color",
         "$value": "#663C00",
         "$description": "Warning default background"
@@ -154,7 +154,7 @@
         "$value": "#FFFFFF",
         "$description": "Warning filled main"
       },
-      "filledBG": {
+      "filledBackground": {
         "$type": "color",
         "$value": "#ED6C02",
         "$description": "Warning filled background"
@@ -184,29 +184,49 @@
     }
   },
   "text": {
-    "primary": {
+    "heading": {
+      "$type": "color",
+      "$value": "#FAFAFA",
+      "$description": "heading text color"
+    },
+    "body": {
       "$type": "color",
       "$value": "#FAFAFA",
       "$description": "Body text color"
     },
-    "secondary": {
+    "input": {
+      "$type": "color",
+      "$value": "#FAFAFA",
+      "$description": "Input text color"
+    },
+    "placeholder": {
       "$type": "color",
       "$value": "#8C8C8C",
       "$description": "Placeholder text color"
+    },
+    "subtext": {
+      "$type": "color",
+      "$value": "#8C8C8C",
+      "$description": "Subtext color"
+    },
+    "tertiary": {
+      "$type": "color",
+      "$value": "#B0BEC5",
+      "$description": "Tertiary color"
     }
   },
   "button": {
-    "labelLight": {
+    "primaryContrast": {
       "$type": "color",
       "$value": "#3D3D3D",
       "$description": "Button label in dark bg."
     },
-    "labelDark": {
+    "secondaryContrast": {
       "$type": "color",
       "$value": "#FAFAFA",
       "$description": "Button label in light bg"
     },
-    "secondaryBG": {
+    "secondaryBackground": {
       "$type": "color",
       "$value": "#3A3A3A",
       "$description": "Button Secondary bg color"
@@ -254,7 +274,7 @@
         "$value": "#FFFFFF",
         "$description": "Switch handle color in bo when in inactive"
       },
-      "inactiveBG": {
+      "inactiveBackground": {
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -273,7 +293,7 @@
         "$value": "#FFFFFF",
         "$description": "Switch handle color in bo when in active"
       },
-      "activeBG": {
+      "activeBackground": {
         "$type": "color",
         "$value": "{success.main}",
         "$description": "Switch background active in bo"
@@ -285,7 +305,7 @@
         "$value": "#8C8C8C",
         "$description": "Switch handle color in ppt when in inactive"
       },
-      "inactiveBG": {
+      "inactiveBackground": {
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -385,38 +405,42 @@
       "$description": "Icon background color when needed"
     }
   },
-  "background": {
-    "body": {
+  "app": {
+    "bodyBackground": {
       "$type": "color",
       "$value": "#000000",
       "$description": "App body background color"
     },
-    "page": {
+    "pageBackground": {
       "$type": "color",
       "$value": "#000000",
       "$description": "App page background color"
     },
-    "section": {
+    "sectionBackground": {
       "$type": "color",
       "$value": "#121212",
       "$description": "App section background color"
-    },
-    "card": {
+    }
+  },
+  "card": {
+    "background": {
       "$type": "color",
       "$value": "#121212",
       "$description": "App cards background color"
-    },
-    "tableBG": {
+    }
+  },
+  "table": {
+    "background": {
       "$type": "color",
       "$value": "#000000",
       "$description": "Table background color"
     },
-    "tableAlt": {
+    "alternate": {
       "$type": "color",
       "$value": "#121212",
       "$description": "Alternate row color on tables"
     },
-    "tableHover": {
+    "hover": {
       "$type": "color",
       "$value": "#FFFFFF08",
       "$description": "Table row hover background color"
@@ -432,15 +456,15 @@
     "$value": "140%",
     "$description": "When font-size is lesser than 21px"
   },
-  "Regular": {
+  "regular": {
     "$type": "fontWeights",
     "$value": "400"
   },
-  "Medium": {
+  "medium": {
     "$type": "fontWeights",
     "$value": "500"
   },
-  "Bold": {
+  "bold": {
     "$type": "fontWeights",
     "$value": "700"
   },
@@ -461,7 +485,7 @@
   "textfieldDefault": {
     "$type": "border",
     "$value": {
-      "color": "{border.textfieldDefault}",
+      "color": "{textfield.defaultBorder}",
       "width": "1"
     },
     "$description": "Textfield border default"
@@ -469,7 +493,7 @@
   "textfieldHover": {
     "$type": "border",
     "$value": {
-      "color": "{border.textfieldHover}",
+      "color": "{textfield.hoverBorder}",
       "width": "1"
     },
     "$description": "Textfield border when hovered"
@@ -493,20 +517,22 @@
       "$value": "#3C3C3C",
       "$description": "Divider color"
     },
-    "textfieldDefault": {
-      "$type": "color",
-      "$value": "#3C3C3C",
-      "$description": "Textfield border color default"
-    },
-    "textfieldHover": {
-      "$type": "color",
-      "$value": "#FAFAFA",
-      "$description": "Textfield border color when hovered"
-    },
     "buttonDefault": {
       "$type": "color",
       "$value": "#3C3C3C",
       "$description": "Custom button default border color"
+    }
+  },
+  "textfield": {
+    "defaultBorder": {
+      "$type": "color",
+      "$value": "#3C3C3C",
+      "$description": "Textfield border color default"
+    },
+    "hoverBorder": {
+      "$type": "color",
+      "$value": "#FAFAFA",
+      "$description": "Textfield border color when hovered"
     }
   },
   "snackbar": {
@@ -515,7 +541,7 @@
       "$value": "#FAFAFA",
       "$description": "Snackbar default background"
     },
-    "contrast": {
+    "text": {
       "$type": "color",
       "$value": "#3D3D3D",
       "$description": "Snackbar default contrast items (Buttons, texts)"

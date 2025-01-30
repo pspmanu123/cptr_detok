@@ -51,7 +51,7 @@
         "$value": "{error.main}",
         "$description": "Error alert default icon"
       },
-      "defaultBG": {
+      "defaultBackground": {
         "$type": "color",
         "$value": "{error.light}",
         "$description": "Error alert default background"
@@ -66,7 +66,7 @@
         "$value": "#FFFFFF",
         "$description": "Error alert filled icon"
       },
-      "filledBG": {
+      "filledBackground": {
         "$type": "color",
         "$value": "#C62828",
         "$description": "Error alert filled background"
@@ -83,7 +83,7 @@
         "$value": "{success.main}",
         "$description": "Success alert default icon"
       },
-      "defaultBG": {
+      "defaultBackground": {
         "$type": "color",
         "$value": "{success.light}",
         "$description": "Success alert default background"
@@ -98,7 +98,7 @@
         "$value": "#FFFFFF",
         "$description": "Success alert filled icon"
       },
-      "filledBG": {
+      "filledBackground": {
         "$type": "color",
         "$value": "#2E7D32",
         "$description": "Success alert filled background"
@@ -115,7 +115,7 @@
         "$value": "{info.main}",
         "$description": "Info alert default icon"
       },
-      "defaultBG": {
+      "defaultBackground": {
         "$type": "color",
         "$value": "{info.light}",
         "$description": "Info alert default background"
@@ -130,7 +130,7 @@
         "$value": "#FFFFFF",
         "$description": "Info alert filled icon"
       },
-      "filledBG": {
+      "filledBackground": {
         "$type": "color",
         "$value": "#006DD1",
         "$description": "Info alert filled background"
@@ -147,7 +147,7 @@
         "$value": "{warning.main}",
         "$description": "Warning alert default icon"
       },
-      "defaultBG": {
+      "defaultBackground": {
         "$type": "color",
         "$value": "{warning.light}",
         "$description": "Warning alert default background"
@@ -162,7 +162,7 @@
         "$value": "#FFFFFF",
         "$description": "Warning alert filled icon"
       },
-      "filledBG": {
+      "filledBackground": {
         "$type": "color",
         "$value": "#ED6C02",
         "$description": "Warning alert filled background"
@@ -175,15 +175,30 @@
     }
   },
   "text": {
-    "primary": {
+    "heading": {
       "$type": "color",
       "$value": "#3D3D3D",
-      "$description": "Primary text color"
+      "$description": "Heading text color"
     },
-    "secondary": {
+    "body": {
+      "$type": "color",
+      "$value": "#3D3D3D",
+      "$description": "Body text color"
+    },
+    "input": {
+      "$type": "color",
+      "$value": "#3D3D3D",
+      "$description": "Body text color"
+    },
+    "subtext": {
       "$type": "color",
       "$value": "#737373",
-      "$description": "Secondary text color"
+      "$description": "Subtext text color"
+    },
+    "placeholder": {
+      "$type": "color",
+      "$value": "#737373",
+      "$description": "Textfield placeholder text color"
     },
     "tertiary": {
       "$type": "color",
@@ -192,17 +207,17 @@
     }
   },
   "button": {
-    "labelLight": {
+    "primaryContrast": {
       "$type": "color",
       "$value": "#FFFFFF",
-      "$description": "Button label on dark bg"
+      "$description": "Primary button contrast"
     },
-    "labelDark": {
+    "secondaryContrast": {
       "$type": "color",
       "$value": "#3D3D3D",
-      "$description": "Button label on light bg"
+      "$description": "Secondary button contrast"
     },
-    "secondaryBG": {
+    "secondaryBackground": {
       "$type": "color",
       "$value": "#ECEFF1",
       "$description": "Button Secondary bg color"
@@ -241,6 +256,25 @@
       "$type": "color",
       "$value": "#737373",
       "$description": "Control buttons inactive (Checkboxes, Radios)"
+    },
+    "customDefaultBackground": {
+      "$type": "color",
+      "$value": "#FFFFFF00",
+      "$description": "Custom button default background"
+    },
+    "customHoverBackground": {
+      "$type": "color",
+      "$value": "rgba(117,117,117,0.06)"
+    },
+    "customDefaultBorder": {
+      "$type": "color",
+      "$value": "#E4E4E4",
+      "$description": "Custom button default Border"
+    },
+    "customHoverBorder": {
+      "$type": "color",
+      "$value": "#BDBDBD",
+      "$description": "Custom button hover border"
     }
   },
   "switch": {
@@ -250,7 +284,7 @@
         "$value": "#FFFFFF",
         "$description": "Switch handle color in bo "
       },
-      "activeBG": {
+      "activeBackground": {
         "$type": "color",
         "$value": "{success.main}",
         "$description": "Switch background active"
@@ -260,7 +294,7 @@
         "$value": "#FFFFFF",
         "$description": "Switch handle color in bo"
       },
-      "inactiveBG": {
+      "inactiveBackground": {
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -281,7 +315,7 @@
         "$value": "#737373",
         "$description": "Switch handle color in bo"
       },
-      "inactiveBG": {
+      "inactiveBackground": {
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -381,43 +415,49 @@
       "$description": "Icon background color when needed"
     }
   },
-  "background": {
-    "body": {
+  "app": {
+    "bodyBackground": {
       "$type": "color",
       "$value": "#F9F9F9",
       "$description": "App body background color"
     },
-    "page": {
+    "pageBackground": {
       "$type": "color",
       "$value": "#F2F2F2",
       "$description": "App page background color"
     },
-    "section": {
+    "sectionBackground": {
       "$type": "color",
       "$value": "#FFFFFF",
       "$description": "App section background color"
-    },
-    "card": {
+    }
+  },
+  "card": {
+    "background": {
       "$type": "color",
       "$value": "#FFFFFF",
       "$description": "App cards background color"
-    },
-    "dialog": {
+    }
+  },
+  "dialog": {
+    "background": {
       "$type": "color",
       "$value": "#FFFFFF",
       "$description": "App dialogs background color"
-    },
-    "tableBG": {
+    }
+  },
+  "table": {
+    "background": {
       "$type": "color",
       "$value": "#FFFFFF",
       "$description": "Table background color"
     },
-    "tableAlt": {
+    "alternate": {
       "$type": "color",
       "$value": "#FAFAFA",
       "$description": "Alternate row color on tables"
     },
-    "tableHover": {
+    "hover": {
       "$type": "color",
       "$value": "#00000008",
       "$description": "Table row hover background color"
@@ -433,17 +473,20 @@
     "$value": "140%",
     "$description": "When font-size is lesser than 21px"
   },
-  "Regular": {
+  "regular": {
     "$type": "fontWeights",
-    "$value": "400"
+    "$value": "400",
+    "$description": "Regular font weight"
   },
-  "Medium": {
+  "medium": {
     "$type": "fontWeights",
-    "$value": "500"
+    "$value": "500",
+    "$description": "Medium font-weight"
   },
-  "Bold": {
+  "bold": {
     "$type": "fontWeights",
-    "$value": "700"
+    "$value": "700",
+    "$description": "Bold font-weight"
   },
   "defaultBorder": {
     "$type": "border",
@@ -462,7 +505,7 @@
   "textfieldDefault": {
     "$type": "border",
     "$value": {
-      "color": "{border.textfieldDefault}",
+      "color": "{textfield.defaultBorder}",
       "width": "1"
     },
     "$description": "Textfield border default"
@@ -470,7 +513,7 @@
   "textfieldHover": {
     "$type": "border",
     "$value": {
-      "color": "{border.textfieldHover}",
+      "color": "{textfield.hoverBorder}",
       "width": "1"
     },
     "$description": "Textfield border when hovered"
@@ -493,21 +536,18 @@
       "$type": "color",
       "$value": "#E4E4E4",
       "$description": "Default divider color"
-    },
-    "textfieldDefault": {
+    }
+  },
+  "textfield": {
+    "defaultBorder": {
       "$type": "color",
       "$value": "#E4E4E4",
       "$description": "Textfield border default"
     },
-    "textfieldHover": {
+    "hoverBorder": {
       "$type": "color",
       "$value": "#3D3D3D",
       "$description": "textfield border when hovered"
-    },
-    "buttonDefault": {
-      "$type": "color",
-      "$value": "#E4E4E4",
-      "$description": "Custom button border default"
     }
   },
   "snackbar": {
@@ -516,10 +556,10 @@
       "$value": "#3D3D3D",
       "$description": "Snackbar default background"
     },
-    "contrast": {
+    "text": {
       "$type": "color",
       "$value": "#FFFFFF",
-      "$description": "Snackbar contrast items (Buttons, texts)"
+      "$description": "Snackbar contrast texts"
     }
   },
   "textfieldError": {
