@@ -1,4 +1,82 @@
 {
+  "white": {
+    "$type": "color",
+    "$value": "#FFF",
+    "$description": "White"
+  },
+  "black": {
+    "$type": "color",
+    "$value": "#000",
+    "$description": "Black"
+  },
+  "error": {
+    "main": {
+      "$type": "color",
+      "$value": "#C62828",
+      "$description": "Error main"
+    },
+    "light": {
+      "$type": "color",
+      "$value": "#FDEDED",
+      "$description": "Error light"
+    },
+    "dark": {
+      "$type": "color",
+      "$value": "#5F2120",
+      "$description": "Error dark"
+    }
+  },
+  "success": {
+    "main": {
+      "$type": "color",
+      "$value": "#2E7D32",
+      "$description": "Success main"
+    },
+    "light": {
+      "$type": "color",
+      "$value": "#E8F5E9",
+      "$description": "Success light"
+    },
+    "dark": {
+      "$type": "color",
+      "$value": "#1E4620",
+      "$description": "Success dark"
+    }
+  },
+  "info": {
+    "main": {
+      "$type": "color",
+      "$value": "#1565C0",
+      "$description": "Info main"
+    },
+    "light": {
+      "$type": "color",
+      "$value": "#E5F6FD",
+      "$description": "Info light"
+    },
+    "dark": {
+      "$type": "color",
+      "$value": "#014361",
+      "$description": "Info dark"
+    }
+  },
+  "warning": {
+    "main": {
+      "$type": "color",
+      "$value": "#ED6C02",
+      "$description": "Warning main"
+    },
+    "light": {
+      "$type": "color",
+      "$value": "#FFF3E0",
+      "$description": "Warning light"
+    },
+    "dark": {
+      "$type": "color",
+      "$value": "#663C00",
+      "$description": "Warning dark"
+    }
+  },
   "xs": {
     "$type": "fontSizes",
     "$value": "12px",
@@ -521,7 +599,7 @@
   "customButton": {
     "$type": "border",
     "$value": {
-      "color": "{border.buttonDefault}",
+      "color": "{button.customDefaultBorder}",
       "width": "1"
     },
     "$description": "Custom Button default border"
@@ -577,83 +655,5 @@
       "width": "1"
     },
     "$description": "Chip border"
-  },
-  "error": {
-    "main": {
-      "$type": "color",
-      "$value": "#C62828",
-      "$description": "Error main"
-    },
-    "light": {
-      "$type": "color",
-      "$value": "#FDEDED",
-      "$description": "Error light"
-    },
-    "dark": {
-      "$type": "color",
-      "$value": "#5F2120",
-      "$description": "Error dark"
-    }
-  },
-  "success": {
-    "main": {
-      "$type": "color",
-      "$value": "#2E7D32",
-      "$description": "Success main"
-    },
-    "light": {
-      "$type": "color",
-      "$value": "#E8F5E9",
-      "$description": "Success light"
-    },
-    "dark": {
-      "$type": "color",
-      "$value": "#1E4620",
-      "$description": "Success dark"
-    }
-  },
-  "info": {
-    "main": {
-      "$type": "color",
-      "$value": "#1565C0",
-      "$description": "Info main"
-    },
-    "light": {
-      "$type": "color",
-      "$value": "#E5F6FD",
-      "$description": "Info light"
-    },
-    "dark": {
-      "$type": "color",
-      "$value": "#014361",
-      "$description": "Info dark"
-    }
-  },
-  "warning": {
-    "main": {
-      "$type": "color",
-      "$value": "#ED6C02",
-      "$description": "Warning main"
-    },
-    "light": {
-      "$type": "color",
-      "$value": "#FFF3E0",
-      "$description": "Warning light"
-    },
-    "dark": {
-      "$type": "color",
-      "$value": "#663C00",
-      "$description": "Warning dark"
-    }
-  },
-  "white": {
-    "$type": "color",
-    "$value": "#FFF",
-    "$description": "White"
-  },
-  "black": {
-    "$type": "color",
-    "$value": "#000",
-    "$description": "Black"
   }
 }

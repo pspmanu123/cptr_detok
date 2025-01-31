@@ -1,170 +1,13 @@
 {
-  "xs": {
-    "$type": "fontSizes",
-    "$value": "12px"
+  "white": {
+    "$type": "color",
+    "$value": "#000",
+    "$description": "White"
   },
-  "s": {
-    "$type": "fontSizes",
-    "$value": "13px"
-  },
-  "m": {
-    "$type": "fontSizes",
-    "$value": "14px"
-  },
-  "xm": {
-    "$type": "fontSizes",
-    "$value": "16px"
-  },
-  "xxm": {
-    "$type": "fontSizes",
-    "$value": "18px",
-    "$description": "18px font size used as a bigger font size for some headings"
-  },
-  "l": {
-    "$type": "fontSizes",
-    "$value": "20px"
-  },
-  "xl": {
-    "$type": "fontSizes",
-    "$value": "24px"
-  },
-  "xxl": {
-    "$type": "fontSizes",
-    "$value": "32px"
-  },
-  "xxxl": {
-    "$type": "fontSizes",
-    "$value": "35px"
-  },
-  "alert": {
-    "error": {
-      "defaultIcon": {
-        "$type": "color",
-        "$value": "{error.main}",
-        "$description": "Error alert default icon"
-      },
-      "defaultBackground": {
-        "$type": "color",
-        "$value": "#5F2120",
-        "$description": "Error default background"
-      },
-      "defaultText": {
-        "$type": "color",
-        "$value": "#FDEDED",
-        "$description": "Error default label"
-      },
-      "filledIcon": {
-        "$type": "color",
-        "$value": "#FFFFFF",
-        "$description": "Error filled main"
-      },
-      "filledBackground": {
-        "$type": "color",
-        "$value": "#CF1414",
-        "$description": "Error filled background"
-      },
-      "filledText": {
-        "$type": "color",
-        "$value": "#FFFFFF",
-        "$description": "Error filled label"
-      }
-    },
-    "success": {
-      "defaultIcon": {
-        "$type": "color",
-        "$value": "#E2F9E2",
-        "$description": "Success default main"
-      },
-      "defaultBackground": {
-        "$type": "color",
-        "$value": "#1E4620",
-        "$description": "Success default background"
-      },
-      "defaultText": {
-        "$type": "color",
-        "$value": "#E2F9E2",
-        "$description": "Success default label"
-      },
-      "filledIcon": {
-        "$type": "color",
-        "$value": "#FFFFFF",
-        "$description": "Success filled main"
-      },
-      "filledBackground": {
-        "$type": "color",
-        "$value": "#0C7810",
-        "$description": "Success filled background"
-      },
-      "filledText": {
-        "$type": "color",
-        "$value": "#FFFFFF",
-        "$description": "Success filled label"
-      }
-    },
-    "info": {
-      "defaultIcon": {
-        "$type": "color",
-        "$value": "#E5F6FD",
-        "$description": "Info default main"
-      },
-      "defaultBackground": {
-        "$type": "color",
-        "$value": "#014361",
-        "$description": "Info default background"
-      },
-      "defaultText": {
-        "$type": "color",
-        "$value": "#E5F6FD",
-        "$description": "Info default label"
-      },
-      "filledIcon": {
-        "$type": "color",
-        "$value": "#FFFFFF",
-        "$description": "Info filled main"
-      },
-      "filledBackground": {
-        "$type": "color",
-        "$value": "#006DD1",
-        "$description": "Info filled background"
-      },
-      "filledText": {
-        "$type": "color",
-        "$value": "#FFFFFF",
-        "$description": "Info filled label"
-      }
-    },
-    "warning": {
-      "defaultIcon": {
-        "$type": "color",
-        "$value": "#FFEFD8",
-        "$description": "Warning default main"
-      },
-      "defaultBackground": {
-        "$type": "color",
-        "$value": "#663C00",
-        "$description": "Warning default background"
-      },
-      "defaultText": {
-        "$type": "color",
-        "$value": "#FFEFD8",
-        "$description": "Warning default label"
-      },
-      "filledIcon": {
-        "$type": "color",
-        "$value": "#FFFFFF",
-        "$description": "Warning filled main"
-      },
-      "filledBackground": {
-        "$type": "color",
-        "$value": "#ED6C02",
-        "$description": "Warning filled background"
-      },
-      "filledText": {
-        "$type": "color",
-        "$value": "#FFFFFF",
-        "$description": "Warning filled label"
-      }
-    }
+  "black": {
+    "$type": "color",
+    "$value": "#FFF",
+    "$description": "Black"
   },
   "error": {
     "main": {
@@ -182,386 +25,6 @@
       "$value": "#FDEDED",
       "$description": "Error dark"
     }
-  },
-  "text": {
-    "heading": {
-      "$type": "color",
-      "$value": "#FAFAFA",
-      "$description": "heading text color"
-    },
-    "body": {
-      "$type": "color",
-      "$value": "#FAFAFA",
-      "$description": "Body text color"
-    },
-    "input": {
-      "$type": "color",
-      "$value": "#FAFAFA",
-      "$description": "Input text color"
-    },
-    "placeholder": {
-      "$type": "color",
-      "$value": "#8C8C8C",
-      "$description": "Placeholder text color"
-    },
-    "subtext": {
-      "$type": "color",
-      "$value": "#8C8C8C",
-      "$description": "Subtext color"
-    },
-    "tertiary": {
-      "$type": "color",
-      "$value": "#B0BEC5",
-      "$description": "Tertiary color"
-    }
-  },
-  "button": {
-    "primaryContrast": {
-      "$type": "color",
-      "$value": "#3D3D3D",
-      "$description": "Button label in dark bg."
-    },
-    "secondaryContrast": {
-      "$type": "color",
-      "$value": "#FAFAFA",
-      "$description": "Button label in light bg"
-    },
-    "secondaryBackground": {
-      "$type": "color",
-      "$value": "#3A3A3A",
-      "$description": "Button Secondary bg color"
-    },
-    "secondaryHover": {
-      "$type": "color",
-      "$value": "#282828",
-      "$description": "Button Secondary Hover bg"
-    },
-    "textHover": {
-      "$type": "color",
-      "$value": "#404040",
-      "$description": "Button Text Hover background"
-    },
-    "iconDefault": {
-      "$type": "color",
-      "$value": "#FAFAFA",
-      "$description": "Icon Button by default"
-    },
-    "iconSecondary": {
-      "$type": "color",
-      "$value": "#B0BEC5",
-      "$description": "Icon button secondary color"
-    },
-    "iconLight": {
-      "$type": "color",
-      "$value": "#FFFFFF",
-      "$description": "Icon Button light contrast"
-    },
-    "iconHover": {
-      "$type": "color",
-      "$value": "#F2F2F2",
-      "$description": "Icon Button by default hover"
-    },
-    "control": {
-      "$type": "color",
-      "$value": "#8C8C8C",
-      "$description": "Control buttons inactive (Checkboxes, Radios)"
-    }
-  },
-  "switch": {
-    "bo": {
-      "inactiveHandle": {
-        "$type": "color",
-        "$value": "#FFFFFF",
-        "$description": "Switch handle color in bo when in inactive"
-      },
-      "inactiveBackground": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.3",
-              "space": "lch"
-            }
-          }
-        },
-        "$type": "color",
-        "$value": "#BDBDBD",
-        "$description": "Switch background inactive in bo"
-      },
-      "activeHandle": {
-        "$type": "color",
-        "$value": "#FFFFFF",
-        "$description": "Switch handle color in bo when in active"
-      },
-      "activeBackground": {
-        "$type": "color",
-        "$value": "{success.main}",
-        "$description": "Switch background active in bo"
-      }
-    },
-    "ppt": {
-      "inactiveHandle": {
-        "$type": "color",
-        "$value": "#8C8C8C",
-        "$description": "Switch handle color in ppt when in inactive"
-      },
-      "inactiveBackground": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.3",
-              "space": "lch"
-            }
-          }
-        },
-        "$type": "color",
-        "$value": "#8C8C8C",
-        "$description": "Switch background inactive in ppt"
-      }
-    }
-  },
-  "menu": {
-    "defaultContrast": {
-      "$type": "color",
-      "$value": "#FAFAFA",
-      "$description": "Menu contrast Default"
-    },
-    "defaultHover": {
-      "$type": "color",
-      "$value": "#8C8C8C",
-      "$description": "Menu Contrast default Hover"
-    },
-    "activeContrast": {
-      "$type": "color",
-      "$value": "#000000",
-      "$description": "Menu Contrast Active"
-    }
-  },
-  "links": {
-    "light": {
-      "$type": "color",
-      "$value": "#29B6F6",
-      "$description": "Links on Light BG"
-    },
-    "dark": {
-      "$type": "color",
-      "$value": "#006DD1",
-      "$description": "Links on dark BG"
-    },
-    "breadcrumbs": {
-      "$type": "color",
-      "$value": "#B0BEC5",
-      "$description": "Links on breadcrumbs"
-    }
-  },
-  "chip": {
-    "background": {
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "lighten",
-            "value": "0",
-            "space": "lch"
-          }
-        }
-      },
-      "$type": "color",
-      "$value": "rgba(255,255,255,0.07)",
-      "$description": "Chip background"
-    },
-    "label": {
-      "$type": "color",
-      "$value": "#FAFAFA",
-      "$description": "Chip label"
-    }
-  },
-  "tooltip": {
-    "background": {
-      "$type": "color",
-      "$value": "#FAFAFA",
-      "$description": "Tooltip background color"
-    },
-    "contrast": {
-      "$type": "color",
-      "$value": "#3D3D3D",
-      "$description": "Tooltip text"
-    }
-  },
-  "icon": {
-    "fill": {
-      "$type": "color",
-      "$value": "#FAFAFA",
-      "$description": "Icon fill color by default"
-    },
-    "dark": {
-      "$type": "color",
-      "$value": "#3D3D3D",
-      "$description": "Icon fill color no changes"
-    },
-    "background": {
-      "$type": "color",
-      "$value": "#FFFFFF",
-      "$description": "Icon background color when needed"
-    }
-  },
-  "app": {
-    "bodyBackground": {
-      "$type": "color",
-      "$value": "#000000",
-      "$description": "App body background color"
-    },
-    "pageBackground": {
-      "$type": "color",
-      "$value": "#000000",
-      "$description": "App page background color"
-    },
-    "sectionBackground": {
-      "$type": "color",
-      "$value": "#121212",
-      "$description": "App section background color"
-    }
-  },
-  "card": {
-    "background": {
-      "$type": "color",
-      "$value": "#121212",
-      "$description": "App cards background color"
-    }
-  },
-  "table": {
-    "background": {
-      "$type": "color",
-      "$value": "#000000",
-      "$description": "Table background color"
-    },
-    "alternate": {
-      "$type": "color",
-      "$value": "#121212",
-      "$description": "Alternate row color on tables"
-    },
-    "hover": {
-      "$type": "color",
-      "$value": "#FFFFFF08",
-      "$description": "Table row hover background color"
-    }
-  },
-  "big": {
-    "$type": "lineHeights",
-    "$value": "120%",
-    "$description": "When font-size is greater than 20px"
-  },
-  "small": {
-    "$type": "lineHeights",
-    "$value": "140%",
-    "$description": "When font-size is lesser than 21px"
-  },
-  "regular": {
-    "$type": "fontWeights",
-    "$value": "400"
-  },
-  "medium": {
-    "$type": "fontWeights",
-    "$value": "500"
-  },
-  "bold": {
-    "$type": "fontWeights",
-    "$value": "700"
-  },
-  "defaultBorder": {
-    "$type": "border",
-    "$value": {
-      "color": "{border.default}",
-      "width": "1"
-    }
-  },
-  "dividerDefault": {
-    "$type": "border",
-    "$value": {
-      "color": "{border.divider}",
-      "width": "0.75"
-    }
-  },
-  "textfieldDefault": {
-    "$type": "border",
-    "$value": {
-      "color": "{textfield.defaultBorder}",
-      "width": "1"
-    },
-    "$description": "Textfield border default"
-  },
-  "textfieldHover": {
-    "$type": "border",
-    "$value": {
-      "color": "{textfield.hoverBorder}",
-      "width": "1"
-    },
-    "$description": "Textfield border when hovered"
-  },
-  "customButton": {
-    "$type": "border",
-    "$value": {
-      "color": "{border.buttonDefault}",
-      "width": "1"
-    },
-    "$description": "Custom Button default border"
-  },
-  "border": {
-    "default": {
-      "$type": "color",
-      "$value": "#3C3C3C",
-      "$description": "Default border color"
-    },
-    "divider": {
-      "$type": "color",
-      "$value": "#3C3C3C",
-      "$description": "Divider color"
-    },
-    "buttonDefault": {
-      "$type": "color",
-      "$value": "#3C3C3C",
-      "$description": "Custom button default border color"
-    }
-  },
-  "textfield": {
-    "defaultBorder": {
-      "$type": "color",
-      "$value": "#3C3C3C",
-      "$description": "Textfield border color default"
-    },
-    "hoverBorder": {
-      "$type": "color",
-      "$value": "#FAFAFA",
-      "$description": "Textfield border color when hovered"
-    }
-  },
-  "snackbar": {
-    "background": {
-      "$type": "color",
-      "$value": "#FAFAFA",
-      "$description": "Snackbar default background"
-    },
-    "text": {
-      "$type": "color",
-      "$value": "#3D3D3D",
-      "$description": "Snackbar default contrast items (Buttons, texts)"
-    }
-  },
-  "textfieldError": {
-    "$type": "border",
-    "$value": {
-      "color": "{error.main}",
-      "width": "1"
-    },
-    "$description": "Textfield border when error"
-  },
-  "borderChip": {
-    "$type": "border",
-    "$value": {
-      "width": "1",
-      "color": "#FFFFFF12"
-    },
-    "$description": "Chip border"
   },
   "success": {
     "main": {
@@ -614,14 +77,583 @@
       "$description": "Warning dark"
     }
   },
-  "white": {
-    "$type": "color",
-    "$value": "#000",
-    "$description": "White"
+  "xs": {
+    "$type": "fontSizes",
+    "$value": "12px",
+    "$description": "12px font size used in subtexts"
   },
-  "black": {
-    "$type": "color",
-    "$value": "#FFF",
-    "$description": "Black"
+  "s": {
+    "$type": "fontSizes",
+    "$value": "13px",
+    "$description": "13px font size used as default font size for body"
+  },
+  "m": {
+    "$type": "fontSizes",
+    "$value": "14px",
+    "$description": "14px font size used as default font for buttons"
+  },
+  "xm": {
+    "$type": "fontSizes",
+    "$value": "16px",
+    "$description": "16px font size used as default size of headings"
+  },
+  "xxm": {
+    "$type": "fontSizes",
+    "$value": "18px",
+    "$description": "18px font size used as a bigger font size for some headings"
+  },
+  "l": {
+    "$type": "fontSizes",
+    "$value": "20px",
+    "$description": "20px font size used as the font size of the top headings on app"
+  },
+  "xl": {
+    "$type": "fontSizes",
+    "$value": "24px",
+    "$description": "24px font size used as a bigger font size for page level headings on web"
+  },
+  "xxl": {
+    "$type": "fontSizes",
+    "$value": "32px",
+    "$description": "32px font size used as a bigger font size for headings in all apps"
+  },
+  "xxxl": {
+    "$type": "fontSizes",
+    "$value": "35px",
+    "$description": "35px font size used as the top heading in documentation pages"
+  },
+  "alert": {
+    "error": {
+      "defaultIcon": {
+        "$type": "color",
+        "$value": "{error.main}",
+        "$description": "Error alert default icon"
+      },
+      "defaultBackground": {
+        "$type": "color",
+        "$value": "{error.light}",
+        "$description": "Error alert default background"
+      },
+      "defaultText": {
+        "$type": "color",
+        "$value": "{error.dark}",
+        "$description": "Error alert default text"
+      },
+      "filledIcon": {
+        "$type": "color",
+        "$value": "#FFFFFF",
+        "$description": "Error alert filled icon"
+      },
+      "filledBackground": {
+        "$type": "color",
+        "$value": "#C62828",
+        "$description": "Error alert filled background"
+      },
+      "filledText": {
+        "$type": "color",
+        "$value": "#FFFFFF",
+        "$description": "Error alert filled text"
+      }
+    },
+    "success": {
+      "defaultIcon": {
+        "$type": "color",
+        "$value": "{success.main}",
+        "$description": "Success alert default icon"
+      },
+      "defaultBackground": {
+        "$type": "color",
+        "$value": "{success.light}",
+        "$description": "Success alert default background"
+      },
+      "defaultText": {
+        "$type": "color",
+        "$value": "{success.dark}",
+        "$description": "Success alert default text"
+      },
+      "filledIcon": {
+        "$type": "color",
+        "$value": "#FFFFFF",
+        "$description": "Success alert filled icon"
+      },
+      "filledBackground": {
+        "$type": "color",
+        "$value": "#2E7D32",
+        "$description": "Success alert filled background"
+      },
+      "filledText": {
+        "$type": "color",
+        "$value": "#FFFFFF",
+        "$description": "Success alert filled text"
+      }
+    },
+    "info": {
+      "defaultIcon": {
+        "$type": "color",
+        "$value": "{info.main}",
+        "$description": "Info alert default icon"
+      },
+      "defaultBackground": {
+        "$type": "color",
+        "$value": "{info.light}",
+        "$description": "Info alert default background"
+      },
+      "defaultText": {
+        "$type": "color",
+        "$value": "{info.dark}",
+        "$description": "Info alert default text"
+      },
+      "filledIcon": {
+        "$type": "color",
+        "$value": "#FFFFFF",
+        "$description": "Info alert filled icon"
+      },
+      "filledBackground": {
+        "$type": "color",
+        "$value": "#006DD1",
+        "$description": "Info alert filled background"
+      },
+      "filledText": {
+        "$type": "color",
+        "$value": "#FFFFFF",
+        "$description": "Info alert filled label"
+      }
+    },
+    "warning": {
+      "defaultIcon": {
+        "$type": "color",
+        "$value": "{warning.main}",
+        "$description": "Warning alert default icon"
+      },
+      "defaultBackground": {
+        "$type": "color",
+        "$value": "{warning.light}",
+        "$description": "Warning alert default background"
+      },
+      "defaultText": {
+        "$type": "color",
+        "$value": "{warning.dark}",
+        "$description": "Warning alert default text"
+      },
+      "filledIcon": {
+        "$type": "color",
+        "$value": "#FFFFFF",
+        "$description": "Warning alert filled icon"
+      },
+      "filledBackground": {
+        "$type": "color",
+        "$value": "#ED6C02",
+        "$description": "Warning alert filled background"
+      },
+      "filledText": {
+        "$type": "color",
+        "$value": "#FFFFFF",
+        "$description": "Warning alert filled label"
+      }
+    }
+  },
+  "text": {
+    "heading": {
+      "$type": "color",
+      "$value": "#FAFAFA",
+      "$description": "Heading text color"
+    },
+    "body": {
+      "$type": "color",
+      "$value": "#FAFAFA",
+      "$description": "Body text color"
+    },
+    "input": {
+      "$type": "color",
+      "$value": "#FAFAFA",
+      "$description": "Body text color"
+    },
+    "subtext": {
+      "$type": "color",
+      "$value": "#8C8C8C",
+      "$description": "Subtext text color"
+    },
+    "placeholder": {
+      "$type": "color",
+      "$value": "#8C8C8C",
+      "$description": "Textfield placeholder text color"
+    },
+    "tertiary": {
+      "$type": "color",
+      "$value": "#B0BEC5",
+      "$description": "Tertiary text color"
+    }
+  },
+  "button": {
+    "primaryContrast": {
+      "$type": "color",
+      "$value": "#121212",
+      "$description": "Primary button contrast"
+    },
+    "secondaryContrast": {
+      "$type": "color",
+      "$value": "#FAFAFA",
+      "$description": "Secondary button contrast"
+    },
+    "secondaryBackground": {
+      "$type": "color",
+      "$value": "#3A3A3A",
+      "$description": "Button Secondary bg color"
+    },
+    "secondaryHover": {
+      "$type": "color",
+      "$value": "#282828",
+      "$description": "Button secondary bg when hovered"
+    },
+    "textHover": {
+      "$type": "color",
+      "$value": "#404040",
+      "$description": "Button text hover bg"
+    },
+    "iconDefault": {
+      "$type": "color",
+      "$value": "#FAFAFA",
+      "$description": "Default button icon color"
+    },
+    "iconSecondary": {
+      "$type": "color",
+      "$value": "#B0BEC5",
+      "$description": "Secondary icon button color"
+    },
+    "iconLight": {
+      "$type": "color",
+      "$value": "#3D3D3D",
+      "$description": "Icon button fill in dark bg"
+    },
+    "iconHover": {
+      "$type": "color",
+      "$value": "#BDBDBD",
+      "$description": "Icon button bg color when hovered"
+    },
+    "control": {
+      "$type": "color",
+      "$value": "#8C8C8C",
+      "$description": "Control buttons inactive (Checkboxes, Radios)"
+    },
+    "customDefaultBackground": {
+      "$type": "color",
+      "$value": "#12121200",
+      "$description": "Custom button default background"
+    },
+    "customHoverBackground": {
+      "$type": "color",
+      "$value": "rgba(164,164,164,0.06)"
+    },
+    "customDefaultBorder": {
+      "$type": "color",
+      "$value": "#3C3C3C",
+      "$description": "Custom button default Border"
+    },
+    "customHoverBorder": {
+      "$type": "color",
+      "$value": "#626262",
+      "$description": "Custom button hover border"
+    }
+  },
+  "switch": {
+    "bo": {
+      "activeHandle": {
+        "$type": "color",
+        "$value": "#FFFFFF",
+        "$description": "Switch handle color in bo "
+      },
+      "activeBackground": {
+        "$type": "color",
+        "$value": "{success.main}",
+        "$description": "Switch background active"
+      },
+      "inactiveHandle": {
+        "$type": "color",
+        "$value": "#FFFFFF",
+        "$description": "Switch handle color in bo"
+      },
+      "inactiveBackground": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.3",
+              "space": "lch"
+            }
+          }
+        },
+        "$type": "color",
+        "$value": "#BDBDBD",
+        "$description": "Switch background inactive"
+      }
+    },
+    "ppt": {
+      "inactiveHandle": {
+        "$type": "color",
+        "$value": "#8C8C8C",
+        "$description": "Switch handle color in bo"
+      },
+      "inactiveBackground": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.3",
+              "space": "lch"
+            }
+          }
+        },
+        "$type": "color",
+        "$value": "#8C8C8C",
+        "$description": "Switch background inactive"
+      }
+    }
+  },
+  "menu": {
+    "defaultContrast": {
+      "$type": "color",
+      "$value": "#FAFAFA",
+      "$description": "Menu Contrast Default"
+    },
+    "defaultHover": {
+      "$type": "color",
+      "$value": "#8C8C8C",
+      "$description": "Menu Contrast default Hover"
+    },
+    "activeContrast": {
+      "$type": "color",
+      "$value": "#121212",
+      "$description": "Menu Contrast Active"
+    }
+  },
+  "links": {
+    "light": {
+      "$type": "color",
+      "$value": "#29B6F6",
+      "$description": "Links on Light BG"
+    },
+    "dark": {
+      "$type": "color",
+      "$value": "#006DD1",
+      "$description": "Links on dark BG"
+    },
+    "breadcrumbs": {
+      "$type": "color",
+      "$value": "#B0BEC5",
+      "$description": "Links on breadcrumbs"
+    }
+  },
+  "chip": {
+    "background": {
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0",
+            "space": "lch"
+          }
+        }
+      },
+      "$type": "color",
+      "$value": "rgba(255,255,255,0.07)",
+      "$description": "Chip background"
+    },
+    "label": {
+      "$type": "color",
+      "$value": "#FAFAFA",
+      "$description": "Chip label"
+    }
+  },
+  "tooltip": {
+    "background": {
+      "$type": "color",
+      "$value": "#FAFAFA",
+      "$description": "Tooltip background color"
+    },
+    "contrast": {
+      "$type": "color",
+      "$value": "#3D3D3D",
+      "$description": "Tooltip contrast item color"
+    }
+  },
+  "icon": {
+    "fill": {
+      "$type": "color",
+      "$value": "#FAFAFA",
+      "$description": "Icon fill color by default"
+    },
+    "dark": {
+      "$type": "color",
+      "$value": "#3D3D3D",
+      "$description": "Icon fill color no changes"
+    },
+    "background": {
+      "$type": "color",
+      "$value": "#FFFFFF",
+      "$description": "Icon background color when needed"
+    }
+  },
+  "app": {
+    "bodyBackground": {
+      "$type": "color",
+      "$value": "#000",
+      "$description": "App body background color"
+    },
+    "pageBackground": {
+      "$type": "color",
+      "$value": "#000",
+      "$description": "App page background color"
+    },
+    "sectionBackground": {
+      "$type": "color",
+      "$value": "#121212",
+      "$description": "App section background color"
+    }
+  },
+  "card": {
+    "background": {
+      "$type": "color",
+      "$value": "#121212",
+      "$description": "App cards background color"
+    }
+  },
+  "dialog": {
+    "background": {
+      "$type": "color",
+      "$value": "#121212",
+      "$description": "App dialogs background color"
+    }
+  },
+  "table": {
+    "background": {
+      "$type": "color",
+      "$value": "#000",
+      "$description": "Table background color"
+    },
+    "alternate": {
+      "$type": "color",
+      "$value": "#121212",
+      "$description": "Alternate row color on tables"
+    },
+    "hover": {
+      "$type": "color",
+      "$value": "#FFFFFF08",
+      "$description": "Table row hover background color"
+    }
+  },
+  "big": {
+    "$type": "lineHeights",
+    "$value": "120%",
+    "$description": "When font-size is greater than 20px"
+  },
+  "small": {
+    "$type": "lineHeights",
+    "$value": "140%",
+    "$description": "When font-size is lesser than 21px"
+  },
+  "regular": {
+    "$type": "fontWeights",
+    "$value": "400",
+    "$description": "Regular font weight"
+  },
+  "medium": {
+    "$type": "fontWeights",
+    "$value": "500",
+    "$description": "Medium font-weight"
+  },
+  "bold": {
+    "$type": "fontWeights",
+    "$value": "700",
+    "$description": "Bold font-weight"
+  },
+  "defaultBorder": {
+    "$type": "border",
+    "$value": {
+      "color": "{border.default}",
+      "width": "1"
+    }
+  },
+  "dividerDefault": {
+    "$type": "border",
+    "$value": {
+      "color": "{border.divider}",
+      "width": "0.75"
+    }
+  },
+  "textfieldDefault": {
+    "$type": "border",
+    "$value": {
+      "color": "{textfield.defaultBorder}",
+      "width": "1"
+    },
+    "$description": "Textfield border default"
+  },
+  "textfieldHover": {
+    "$type": "border",
+    "$value": {
+      "color": "{textfield.hoverBorder}",
+      "width": "1"
+    },
+    "$description": "Textfield border when hovered"
+  },
+  "customButton": {
+    "$type": "border",
+    "$value": {
+      "color": "{button.customDefaultBorder}",
+      "width": "1"
+    },
+    "$description": "Custom Button default border"
+  },
+  "border": {
+    "default": {
+      "$type": "color",
+      "$value": "#3C3C3C",
+      "$description": "Default border color"
+    },
+    "divider": {
+      "$type": "color",
+      "$value": "#3C3C3C",
+      "$description": "Default divider color"
+    }
+  },
+  "textfield": {
+    "defaultBorder": {
+      "$type": "color",
+      "$value": "#3C3C3C",
+      "$description": "Textfield border default"
+    },
+    "hoverBorder": {
+      "$type": "color",
+      "$value": "#FAFAFA",
+      "$description": "textfield border when hovered"
+    }
+  },
+  "snackbar": {
+    "background": {
+      "$type": "color",
+      "$value": "#FAFAFA",
+      "$description": "Snackbar default background"
+    },
+    "text": {
+      "$type": "color",
+      "$value": "#3D3D3D",
+      "$description": "Snackbar contrast texts"
+    }
+  },
+  "textfieldError": {
+    "$type": "border",
+    "$value": {
+      "color": "{error.main}",
+      "width": "1"
+    },
+    "$description": "Textfield border when error"
+  },
+  "borderChip": {
+    "$type": "border",
+    "$value": {
+      "color": "#FFFFFF12",
+      "width": "1"
+    },
+    "$description": "Chip border"
   }
 }
