@@ -599,7 +599,7 @@
   "customButton": {
     "$type": "border",
     "$value": {
-      "color": "{border.buttonDefault}",
+      "color": "{button.customDefaultBorder}",
       "width": "1"
     },
     "$description": "Custom Button default border"
