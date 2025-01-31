@@ -322,7 +322,7 @@
     },
     "iconLight": {
       "$type": "color",
-      "$value": "#FFFFFF",
+      "$value": "#3D3D3D",
       "$description": "Icon button fill in dark bg"
     },
     "iconHover": {
