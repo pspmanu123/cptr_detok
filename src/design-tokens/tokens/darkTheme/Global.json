@@ -291,7 +291,7 @@
       },
       "activeBackground": {
         "$type": "color",
-        "$value": "{success.main}",
+        "$value": "#66BB6A",
         "$description": "Switch background active"
       },
       "inactiveHandle": {
@@ -615,7 +615,7 @@
   "textfieldError": {
     "$type": "border",
     "$value": {
-      "color": "{error.main}",
+      "color": "{textfield.errorBorder}",
       "width": "1"
     },
     "$description": "Textfield border when error"
