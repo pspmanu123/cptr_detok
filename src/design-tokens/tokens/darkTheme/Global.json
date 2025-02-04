@@ -1,82 +1,4 @@
 {
-  "white": {
-    "$type": "color",
-    "$value": "#000",
-    "$description": "White"
-  },
-  "black": {
-    "$type": "color",
-    "$value": "#FFF",
-    "$description": "Black"
-  },
-  "error": {
-    "main": {
-      "$type": "color",
-      "$value": "#F44336",
-      "$description": "Error main"
-    },
-    "light": {
-      "$type": "color",
-      "$value": "#5F2120",
-      "$description": "Error light"
-    },
-    "dark": {
-      "$type": "color",
-      "$value": "#FDEDED",
-      "$description": "Error dark"
-    }
-  },
-  "success": {
-    "main": {
-      "$type": "color",
-      "$value": "#66BB6A",
-      "$description": "Success main"
-    },
-    "light": {
-      "$type": "color",
-      "$value": "#1E4620",
-      "$description": "Success light"
-    },
-    "dark": {
-      "$type": "color",
-      "$value": "#E8F5E9",
-      "$description": "Success dark"
-    }
-  },
-  "info": {
-    "main": {
-      "$type": "color",
-      "$value": "#29B6F6",
-      "$description": "Info main"
-    },
-    "light": {
-      "$type": "color",
-      "$value": "#014361",
-      "$description": "Info light"
-    },
-    "dark": {
-      "$type": "color",
-      "$value": "#E5F6FD",
-      "$description": "Info dark"
-    }
-  },
-  "warning": {
-    "main": {
-      "$type": "color",
-      "$value": "#FFA726",
-      "$description": "Warning main"
-    },
-    "light": {
-      "$type": "color",
-      "$value": "#663C00",
-      "$description": "Warning light"
-    },
-    "dark": {
-      "$type": "color",
-      "$value": "#FFF3E0",
-      "$description": "Warning dark"
-    }
-  },
   "xs": {
     "$type": "fontSizes",
     "$value": "12px",
@@ -126,17 +48,17 @@
     "error": {
       "defaultIcon": {
         "$type": "color",
-        "$value": "{error.main}",
+        "$value": "#F44336",
         "$description": "Error alert default icon"
       },
       "defaultBackground": {
         "$type": "color",
-        "$value": "{error.light}",
+        "$value": "#5F2120",
         "$description": "Error alert default background"
       },
       "defaultText": {
         "$type": "color",
-        "$value": "{error.dark}",
+        "$value": "#FDEDED",
         "$description": "Error alert default text"
       },
       "filledIcon": {
@@ -158,17 +80,17 @@
     "success": {
       "defaultIcon": {
         "$type": "color",
-        "$value": "{success.main}",
+        "$value": "#66BB6A",
         "$description": "Success alert default icon"
       },
       "defaultBackground": {
         "$type": "color",
-        "$value": "{success.light}",
+        "$value": "#1E4620",
         "$description": "Success alert default background"
       },
       "defaultText": {
         "$type": "color",
-        "$value": "{success.dark}",
+        "$value": "#E8F5E9",
         "$description": "Success alert default text"
       },
       "filledIcon": {
@@ -190,17 +112,17 @@
     "info": {
       "defaultIcon": {
         "$type": "color",
-        "$value": "{info.main}",
+        "$value": "#29B6F6",
         "$description": "Info alert default icon"
       },
       "defaultBackground": {
         "$type": "color",
-        "$value": "{info.light}",
+        "$value": "#014361",
         "$description": "Info alert default background"
       },
       "defaultText": {
         "$type": "color",
-        "$value": "{info.dark}",
+        "$value": "#E5F6FD",
         "$description": "Info alert default text"
       },
       "filledIcon": {
@@ -222,17 +144,17 @@
     "warning": {
       "defaultIcon": {
         "$type": "color",
-        "$value": "{warning.main}",
+        "$value": "#FFA726",
         "$description": "Warning alert default icon"
       },
       "defaultBackground": {
         "$type": "color",
-        "$value": "{warning.light}",
+        "$value": "#663C00",
         "$description": "Warning alert default background"
       },
       "defaultText": {
         "$type": "color",
-        "$value": "{warning.dark}",
+        "$value": "#FFF3E0",
         "$description": "Warning alert default text"
       },
       "filledIcon": {
@@ -282,6 +204,11 @@
       "$type": "color",
       "$value": "#B0BEC5",
       "$description": "Tertiary text color"
+    },
+    "error": {
+      "$type": "color",
+      "$value": "#F44336",
+      "$description": "error text color"
     }
   },
   "button": {
@@ -427,12 +354,12 @@
     }
   },
   "links": {
-    "light": {
+    "default": {
       "$type": "color",
       "$value": "#29B6F6",
       "$description": "Links on Light BG"
     },
-    "dark": {
+    "snackbar": {
       "$type": "color",
       "$value": "#006DD1",
       "$description": "Links on dark BG"
@@ -444,7 +371,7 @@
     }
   },
   "chip": {
-    "background": {
+    "defaultBackground": {
       "$extensions": {
         "studio.tokens": {
           "modify": {
@@ -458,10 +385,50 @@
       "$value": "rgba(255,255,255,0.07)",
       "$description": "Chip background"
     },
-    "label": {
+    "defaultLabel": {
       "$type": "color",
       "$value": "#FAFAFA",
       "$description": "Chip label"
+    },
+    "errorLabel": {
+      "$type": "color",
+      "$value": "#F44336",
+      "$description": "Chip label error"
+    },
+    "errorBackground": {
+      "$type": "color",
+      "$value": "#5F2120",
+      "$description": "Chip background error"
+    },
+    "successLabel": {
+      "$type": "color",
+      "$value": "#66BB6A",
+      "$description": "Chip label success"
+    },
+    "successBackground": {
+      "$type": "color",
+      "$value": "#1E4620",
+      "$description": "Chip background success"
+    },
+    "infoLabel": {
+      "$type": "color",
+      "$value": "#29B6F6",
+      "$description": "Chip label info"
+    },
+    "infoBackground": {
+      "$type": "color",
+      "$value": "#014361",
+      "$description": "Chip background info"
+    },
+    "warningLabel": {
+      "$type": "color",
+      "$value": "#FFA726",
+      "$description": "Chip label warning"
+    },
+    "warningBackground": {
+      "$type": "color",
+      "$value": "#663C00",
+      "$description": "Chip background warning"
     }
   },
   "tooltip": {
@@ -621,6 +588,11 @@
       "$type": "color",
       "$value": "#3C3C3C",
       "$description": "Textfield border default"
+    },
+    "errorBorder": {
+      "$type": "color",
+      "$value": "#F44336",
+      "$description": "Textfield border error"
     },
     "hoverBorder": {
       "$type": "color",
