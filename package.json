@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "scripts": {
+    "detok": "node build.js"
+  },
+  "devDependencies": {
+    "@tokens-studio/sd-transforms": "^1.2.9",
+    "style-dictionary": "^4.3.2"
+  }
+}
