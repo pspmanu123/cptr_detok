@@ -1,0 +1,24 @@
+name: Run Detok
+
+on:  
+  push:
+    branches:
+      - main  # Change this to your default branch if it's different
+  pull_request:
+    branches:
+      - main  # Change this to your default branch if it's different
+
+jobs:
+  run-detok:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'  # Specify your Node.js version
+      - name: Install dependencies
+        run: npm install
+      - name: Run detok
+        run: npm run detok
