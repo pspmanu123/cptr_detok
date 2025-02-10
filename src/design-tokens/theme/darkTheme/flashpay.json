@@ -1,0 +1,18 @@
+{
+  "color": {
+    "primary": "#12a78a",
+    "hover": "#0c7460",
+    "dark": "#055550",
+    "header": "linear-gradient(89.83deg, #FFDA3F 0.11%, #BACB55 19.25%, #46B279 37.87%, #12A78A 58.3%, #0D917F 72.31%, #087A73 99.43%)",
+    "headerContrast": "#ffffff"
+  },
+  "fontFamilies": {
+    "main": "'Manrope', sans-serif"
+  },
+  "border": {
+    "active": "1.5px none #12a78a",
+    "tertiary": "1px none #12a78a",
+    "tertiaryHover": "1px none #0c7460",
+    "textfieldMultiselect": "1px none #12a78a"
+  }
+}

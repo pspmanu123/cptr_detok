@@ -1,0 +1,18 @@
+{
+  "color": {
+    "primary": "#02858d",
+    "hover": "#015d62",
+    "dark": "#02858d",
+    "header": "#02858d",
+    "headerContrast": "#ffffff"
+  },
+  "fontFamilies": {
+    "main": "'Poppins', sans-serif"
+  },
+  "border": {
+    "active": "1.5px none #02858d",
+    "tertiary": "1px none #02858d",
+    "tertiaryHover": "1px none #015d62",
+    "textfieldMultiselect": "1px none #02858d"
+  }
+}

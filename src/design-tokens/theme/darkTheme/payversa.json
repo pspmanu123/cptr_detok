@@ -1,0 +1,18 @@
+{
+  "color": {
+    "primary": "#6cc4e2",
+    "hover": "#4b899e",
+    "dark": "#12172b",
+    "header": "#12172b",
+    "headerContrast": "#ffffff"
+  },
+  "fontFamilies": {
+    "main": "'Inter', sans-serif"
+  },
+  "border": {
+    "active": "1.5px none #6cc4e2",
+    "tertiary": "1px none #6cc4e2",
+    "tertiaryHover": "1px none #4b899e",
+    "textfieldMultiselect": "1px none #6cc4e2"
+  }
+}

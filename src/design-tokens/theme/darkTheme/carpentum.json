@@ -1,0 +1,18 @@
+{
+  "color": {
+    "primary": "#8580ec",
+    "hover": "#7b83b2",
+    "dark": "#3f51b5",
+    "header": "#3f51b5",
+    "headerContrast": "#ffffff"
+  },
+  "fontFamilies": {
+    "main": "'Roboto', sans-serif"
+  },
+  "border": {
+    "active": "1.5px none #8580ec",
+    "tertiary": "1px none #8580ec",
+    "tertiaryHover": "1px none #7b83b2",
+    "textfieldMultiselect": "1px none #8580ec"
+  }
+}

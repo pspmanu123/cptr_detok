@@ -1,0 +1,18 @@
+{
+  "color": {
+    "primary": "#2d5789",
+    "hover": "#1f3c5f",
+    "dark": "#2d5789",
+    "header": "#2d5789",
+    "headerContrast": "#ffffff"
+  },
+  "fontFamilies": {
+    "main": "'Nunito', sans-serif"
+  },
+  "border": {
+    "active": "1.5px none #2d5789",
+    "tertiary": "1px none #2d5789",
+    "tertiaryHover": "1px none #1f3c5f",
+    "textfieldMultiselect": "1px none #2d5789"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "color": {
+    "primary": "#938fd8",
+    "hover": "#666497",
+    "dark": "#2c135d",
+    "header": "#2c135d",
+    "headerContrast": "#ffffff"
+  },
+  "fontFamilies": {
+    "main": "'Estedad-VF', sans-serif"
+  },
+  "border": {
+    "active": "1.5px none #938fd8",
+    "tertiary": "1px none #938fd8",
+    "tertiaryHover": "1px none #666497",
+    "textfieldMultiselect": "1px none #938fd8"
+  }
+}
