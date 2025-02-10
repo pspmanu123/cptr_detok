@@ -46,7 +46,7 @@
       "color": "{Hover}",
       "width": "1"
     },
-    "$description": "Echelon tertiary button on hover"
+    "$description": "Echelon tertiary button hover"
   },
   "headerContrast": {
     "$type": "color",
