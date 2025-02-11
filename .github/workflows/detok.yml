@@ -28,6 +28,5 @@ jobs:
           git config --local user.name "GitHub Action"
           git add .
           git commit -m "Run detok and commit changes" || echo "No changes to commit"
-          git push origin HEAD:main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git push https://x-access-token:${{ secrets.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 }}@github.com/pspmanu123/cptr_detok.git HEAD:main
+      
