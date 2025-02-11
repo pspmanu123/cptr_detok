@@ -22,10 +22,3 @@ jobs:
         run: npm install
       - name: Run detok
         run: npm run detok
-      - name: Commit changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add .
-          git commit -m "Run detok and commit changes" || echo "No changes to commit"
-          git push
