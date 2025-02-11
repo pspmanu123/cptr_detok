@@ -1,7 +1,7 @@
 {
   "color": {
     "primary": "#017e72",
-    "hover": "#052743",
+    "hover": "#01655c",
     "dark": "#003c6b",
     "header": "#003c6b",
     "headerContrast": "#ffffff"
@@ -12,7 +12,7 @@
   "border": {
     "active": "1.5px none #017e72",
     "tertiary": "1px none #017e72",
-    "tertiaryHover": "1px none #052743",
+    "tertiaryHover": "1px none #01655c",
     "textfieldMultiselect": "1px none #017e72"
   }
 }
