@@ -6,7 +6,7 @@
   },
   "Hover": {
     "$type": "color",
-    "$value": "#052743",
+    "$value": "#01655C",
     "$description": "Echelon primary hover"
   },
   "Dark": {
