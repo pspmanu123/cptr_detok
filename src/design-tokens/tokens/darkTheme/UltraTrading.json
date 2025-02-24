@@ -1,12 +1,12 @@
 {
   "Primary": {
     "$type": "color",
-    "$value": "#32383C",
+    "$value": "#90A19D",
     "$description": "Ultra Trading primary color"
   },
   "Hover": {
     "$type": "color",
-    "$value": "#181516",
+    "$value": "#6E7071",
     "$description": "Ultra Trading primary hover"
   },
   "Dark": {
